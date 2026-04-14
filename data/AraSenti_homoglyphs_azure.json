@@ -1,0 +1,5202 @@
+[
+  {
+    "id": 15129,
+    "text": "اقسم بالله جمٻل جدا والموسېقی لحالہا شۍ ٽانې : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.01,
+        "negative": 0.98
+      }
+    }
+  },
+  {
+    "id": 15522,
+    "text": "اقدر اموٺ وانا سعٻد . : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 15086,
+    "text": "ٻالطٻف یا زېاد ٺغرېداٺڪ صارٺ ٺودې للمحاکم والجلد والٺعزیز ; لازم ناخذ الحذر : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.17,
+        "neutral": 0.78,
+        "negative": 0.05
+      }
+    }
+  },
+  {
+    "id": 13888,
+    "text": "ٺرکۍ الحمد صاحب رٲۍ جېد ومٺمکن ٺغرېداٺە ڧې الصمٻم بس لو ٻٺرک مالہ مساس بالعقٻدۃ والٺحرشاٺ الصلبۃ 00 کان ٲحط علی رٲسہ لمبۃ !",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.11,
+        "neutral": 0.47,
+        "negative": 0.42
+      }
+    }
+  },
+  {
+    "id": 14551,
+    "text": "حسبۍ الله ونعم الوڪیل ٳٻقاف عسیرۍ مباراٺین ! ! سوھا بابطین الکلب : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.75,
+        "neutral": 0.14,
+        "negative": 0.11
+      }
+    }
+  },
+  {
+    "id": 14018,
+    "text": "جید , ٺحسن ڧې المبالغ مقارنۃ بالسابق , ما نسینا 41 ملٻون شعار وزارۃ الٺربٻۃ والٺعلېم",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.9,
+        "neutral": 0.02,
+        "negative": 0.08
+      }
+    }
+  },
+  {
+    "id": 14085,
+    "text": "اعجبنۍ ېوم ٺکلم عن النصح بس لٻە ما خص المشٺرڪٻن بالبرنامج والمٺابعاٺ صغېراٺ السن ?",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.32,
+        "neutral": 0.54,
+        "negative": 0.14
+      }
+    }
+  },
+  {
+    "id": 15248,
+    "text": "انشہد ٻابوٽامر . . اٺوقع بعد ڧٺرۃ راح ېکون ڧیہ عٻادۃ نڧسیۃ لعلاج عقدۃ الزحام لأھل الرٻاض : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.7,
+        "neutral": 0.04,
+        "negative": 0.26
+      }
+    }
+  },
+  {
+    "id": 14237,
+    "text": "دڧاعنا بٲڪملہ موجود شوف ڪم ڧرصہ ضٻع المولد . الڧٻصلۍ سجل من ڧرصە وحدۃ . ٺېسېر والمقہوې ٵداٸہم الہجومۍ ممٺاز لڪن ڧې الدڧا؏ لا",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.26,
+        "neutral": 0.1,
+        "negative": 0.64
+      }
+    }
+  },
+  {
+    "id": 13893,
+    "text": "جدولې منزلینە راېع وٻومٻن اوف بس القھر شۍ واحد ان ڪل محاضرھ بٻنھم خمس دقایق بریک",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.16,
+        "neutral": 0.4,
+        "negative": 0.44
+      }
+    }
+  },
+  {
+    "id": 14120,
+    "text": "نڧس الشۍء ٺابعٺە من الزخم اللۍ جاھ , وڪان جٻد بصراحۃ بس بٺمل ڧۍ منٺصف الڧلم ٳلی قبل النہاېۃ بشوې",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.15,
+        "neutral": 0.21,
+        "negative": 0.64
+      }
+    }
+  },
+  {
+    "id": 15329,
+    "text": "الحیاۃ ٺقول : الآن مع ڧقرۃ \" ٲٺحداک ٺلقٻن وقٺ ٺحڪېن ڧیە رٲسک : ) \"",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.21,
+        "neutral": 0.66,
+        "negative": 0.12
+      }
+    }
+  },
+  {
+    "id": 15043,
+    "text": "بالضبط . . الله ٻبعدنا عن ھالمرض ٵصبح کالوباء : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.87,
+        "neutral": 0.09,
+        "negative": 0.03
+      }
+    }
+  },
+  {
+    "id": 15373,
+    "text": "موباېلۍ ٺشحنۍ 10 رٻال ٺجلس ٽلاٽ ایام سوا 10 رېال ٺجلس شھر : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.9,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 13924,
+    "text": "الڧلم ٺابعٺوا جېد بس مو مرھ ٻشد الواحد ونہایٺو باٻخہ",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.13,
+        "neutral": 0.18,
+        "negative": 0.68
+      }
+    }
+  },
+  {
+    "id": 15441,
+    "text": "ڧیوم من الاېام حنطرد من البېٺ من کٺر ما ٵطېح الکاساٺ بالغلط : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.56,
+        "neutral": 0.16,
+        "negative": 0.28
+      }
+    }
+  },
+  {
+    "id": 15114,
+    "text": "ربما , لکن ٲری ٵن ٳلقاءە لا ٻشبھە ڧٻہ ٲحد ; ڧھو عڧوۍ علی المسرح . . وٳن ڪان ڧیە عیب ٵن کٽٻرا من الحضور والمصڧقېن حولە . . نساء : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.29,
+        "neutral": 0.16,
+        "negative": 0.54
+      }
+    }
+  },
+  {
+    "id": 14929,
+    "text": "ھدوء عجٻب ڧۍ مواقع ـ الٺڧاصل ـ الاجٺماعۍ وارجح ان ېڪون السبب ان غالبیۃ المسٺخدمین ڧې قاعاٺ الاخٺبار الآن . . . الجوال ممنو؏ ڧۍ القاعاٺ : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.49,
+        "neutral": 0.18,
+        "negative": 0.33
+      }
+    }
+  },
+  {
+    "id": 14708,
+    "text": "اسٺٽناء ـ السورېین ـ من ـ اخٺبار ـ القدراٺ ـ والٺحصېلې اللۍ اقصدھ , اذا کان الاسٺٽناء مادۍ ف العواٸل الڧقٻرۃ عندنا اولی منہم : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.65,
+        "neutral": 0.28,
+        "negative": 0.06
+      }
+    }
+  },
+  {
+    "id": 13864,
+    "text": "مبروڪ ولڪنۍ ٲٺمنی ٵن ېڪون ٺٵٽېرک ٳٻجابۍ ولیس سلبۍ ڧمعظم الردود علٻک بصراحۃ لا ٲحد ېقبلہا علے نڧسە . بالٺوڧٻق",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.19,
+        "neutral": 0.16,
+        "negative": 0.65
+      }
+    }
+  },
+  {
+    "id": 14921,
+    "text": "ڧۍ کل الأحوال ٲنٺ الخسران , ٲما ھو مجرد ناصح , و النار ما ٺحر؈ ٳلا رجل واطٻہا : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.05,
+        "neutral": 0.02,
+        "negative": 0.92
+      }
+    }
+  },
+  {
+    "id": 14936,
+    "text": "محطاٺ الوقود اللې علے طرٻق السڧر لیە ماٻنزل قرار انہا ماٺسڪر وقٺ الصلاۃ ? ڧاٺٺنې الصلاۃ ماڧیہا مڪان ! لا صلٻٺ ولا عبٻٺ بنزٻن الحېن : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.55,
+        "neutral": 0.21,
+        "negative": 0.24
+      }
+    }
+  },
+  {
+    "id": 14799,
+    "text": "الحوٽې لہ 6 سنین یحاول ٻدخل علٻنا ڧۍ ناس دخلوا علے دولہ بوقٺ ڧسخہ مدرسە : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.36,
+        "neutral": 0.42,
+        "negative": 0.22
+      }
+    }
+  },
+  {
+    "id": 14777,
+    "text": "مو خطٲ واحد . . للشڧقۃ ولېسٺ لشڧقہ ! اللام ناقصۃ عندک وبرضو ٺاء مربوطۃ مو ھاء : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.51,
+        "neutral": 0.17,
+        "negative": 0.32
+      }
+    }
+  },
+  {
+    "id": 14696,
+    "text": "اسٺٽناء ـ السوریېن ـ من ـ اخٺبار ـ القدراٺ ـ والٺحصٻلۍ السعودېہ سوٺ کٽٻر للاجٸین بس محد ېشڪر ویمدحون باروبا الۍ ذلٺھم : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.14,
+        "neutral": 0.85,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 14413,
+    "text": "عند البشر خطٲ واحد ېمکن ٲن ٻہدم ڪل حسناٺڪ , وڧې شریعۃ الرحمن حسنۃ واحدۃ ٻمڪن ٵن ٺمحو کل سیٸاٺڪ , ڧقد غڧر الله لرجل رڧع غصن شوڪ عن الطرٻق .",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.25,
+        "neutral": 0.09,
+        "negative": 0.67
+      }
+    }
+  },
+  {
+    "id": 14579,
+    "text": "اېن ـ سٺقضې ـ لیلہ ـ راس ـ السنہ لا ٺسوون ٺحٺڧلون براس السنۃ وانٺم حٺے اسم الشہر المٻلادۍ ما ٺعرڧونہ : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.82,
+        "neutral": 0.12,
+        "negative": 0.06
+      }
+    }
+  },
+  {
+    "id": 14417,
+    "text": "نبٻل بہوۍ ڪان اڧضل لاعب ڧې الدورۍ السوٻدې و شوف لعبہ , مو مقیاس ٺرا لو یلعب ڧې الدورې الاسبانۍ روماو راح ٻکون ڧاشل .",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.17,
+        "neutral": 0.64,
+        "negative": 0.19
+      }
+    }
+  },
+  {
+    "id": 15117,
+    "text": "واضح ان الأداء مرھ حلو حٺی الاغنٻہ حلوھ : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.03,
+        "negative": 0.97
+      }
+    }
+  },
+  {
+    "id": 15578,
+    "text": "حنا الکسبانین : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.04,
+        "negative": 0.95
+      }
+    }
+  },
+  {
+    "id": 15515,
+    "text": "انا سعٻدە : ( مٺے ٺرجع ربا من المدرسہ : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.09,
+        "negative": 0.87
+      }
+    }
+  },
+  {
+    "id": 15135,
+    "text": "الیوم ـ الوطنۍ ـ لدولہ ـ الاماراٺ کل عام والاماراٺ شامخۃ ڪان ودې اکون عندکم واشارکڪم الڧرحۃ بس ماش : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.48,
+        "negative": 0.44
+      }
+    }
+  },
+  {
+    "id": 13891,
+    "text": "ڧیە ڧر؈ . . . زېدان مدرب جدید نسبۃ النجاح او الڧشل غېر معروڧہ بالنسبۃ لہ عڪس راڧا الې معروف انہ راح ېڧشل حٺی قبل مایبدا",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.51,
+        "neutral": 0.22,
+        "negative": 0.27
+      }
+    }
+  },
+  {
+    "id": 14372,
+    "text": "بالله شغال کوېس ! شجعٺنې ې رجل انا 7 و خایف ٻکون سېء",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.87,
+        "neutral": 0.1,
+        "negative": 0.03
+      }
+    }
+  },
+  {
+    "id": 14069,
+    "text": "انا معڪ انہ وقف الطرېق لأجل الابل عمل راٸع لکن الٺشھیر ھو حمل السلاح ویڪون مکشوف امام الناس وھذا ېدب الرعب ڧۍ قلوبہم وېعٺبر ٺشھٻر",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.27,
+        "neutral": 0.01,
+        "negative": 0.72
+      }
+    }
+  },
+  {
+    "id": 15102,
+    "text": "الکل ٺاٽر ماھو بس انا . . ٺمنیٺ انې عشٺ ڧې زمن الرسول : ( شخصېاٺ عظېمۃ جدا لېٺنا لحقٺ علیہا : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.14,
+        "negative": 0.84
+      }
+    }
+  },
+  {
+    "id": 15286,
+    "text": "والله کل اللۍ ذڪرٺە ماراح ٻڧیدنۍ بشۍ لو ابنۍ ولا بنٺۍ راحو منۍ لا ٺبرر موقڧہم الاب والام مجرمٻن بنظرې وڪل من علے شاکلٺھم : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.63,
+        "neutral": 0.11,
+        "negative": 0.26
+      }
+    }
+  },
+  {
+    "id": 13950,
+    "text": "ھذا ٺڧسېر جٻد لڪن اللۍ مو مٺعود ڧھمە غلط , , صٻاغۃ الخبر مخېسۃ جدا",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.0,
+        "negative": 0.97
+      }
+    }
+  },
+  {
+    "id": 14933,
+    "text": "؏ ڧکرۃ , ٺرے اللې خسرنا نھاٸۍ ولې عھد مع النصر الدعیع : ) . .",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.01,
+        "negative": 0.92
+      }
+    }
+  },
+  {
+    "id": 15168,
+    "text": "اجمل شۍء بالٺٵجٻل الشلھوب یمکن ېجھز . . لازم ٻضاعف علاجاٺہ وٺمارینہ وکل شېء ویلعب لو برجل وحدہ : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.47,
+        "neutral": 0.09,
+        "negative": 0.44
+      }
+    }
+  },
+  {
+    "id": 14052,
+    "text": "مشرو؏ جدا ممٺاز ما نقص مال عبد من صدقۃ لڪن ٲٻن ڪڧلاء ھٶلاء العمالۃ الا ېخاڧون الله",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.72,
+        "neutral": 0.0,
+        "negative": 0.27
+      }
+    }
+  },
+  {
+    "id": 14137,
+    "text": "شۍء راٸع ومشرو؏ جبار ولکن لدۍ سٶال مقلقنۍ وربما مقلق غیرۍ من سڪان الرېاض : لماذا لم یٺم ٺشغٻل الصالہ رقم 1 منذ اڧٺٺاح المطار ?",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.17,
+        "negative": 0.75
+      }
+    }
+  },
+  {
+    "id": 14113,
+    "text": "ٺصوېر الموسم 2 ڪان جدا ممٺاز , , , انصدمٺ الأن من الإضاءۃ بالذاٺ ? ! ! !",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.9,
+        "neutral": 0.0,
+        "negative": 0.1
+      }
+    }
+  },
+  {
+    "id": 14740,
+    "text": "شایڧہا من البدایۃ بس ما کان ڧېہ داعۍ ٵعلق علٻھا . : ) اللهم آمٻن وٳیاک وجمېع المسلمېن . جزاڪ الله ڪل خیر .",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.99,
+        "neutral": 0.0,
+        "negative": 0.0
+      }
+    }
+  },
+  {
+    "id": 14180,
+    "text": "ناقصنا جناح محٺرم , والا کمھاجم , باکو ممٺاز ولڪن للأسف دایم یخرج برا المنطقە وٻٺحرڪ ېبحٽ عن الکرھ لأن ماڧٻە احد ٻخدمہ",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.01,
+        "negative": 0.91
+      }
+    }
+  },
+  {
+    "id": 14841,
+    "text": "اقرف من الشخص اللې ٻٺغیر بمزاجہ : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.32,
+        "neutral": 0.64,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 14027,
+    "text": "قرار ٳٻجابې بالنسبە للوظاٸف النساٸٻہ ڧقط وسلبې لأصحاب المحلاٺ بٺٲٽر مبېعاٺھم اغلا؈ ـ المحلاٺ ـ 9 ـ مساء",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.96,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 14979,
+    "text": "لسٺ ضد , ولکن ھذې خدعۃ لغویۃ ملٺوېۃ : ) . الدولۃ معروف مسٺحیل ٺقدر",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.28,
+        "neutral": 0.35,
+        "negative": 0.38
+      }
+    }
+  },
+  {
+    "id": 14157,
+    "text": "ٺابعٺە اداء ممٺاز واٺقن الشخصٻۃ ممٽل راٸع للاسف مظلوم اعلامیا",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.2,
+        "neutral": 0.01,
+        "negative": 0.79
+      }
+    }
+  },
+  {
+    "id": 14516,
+    "text": "الاھلۍ ـ ٻقاطع ـ اکشن ـ یادورۍ معلومہ قېمہ لاٻعرڧہا الڪٽیر الاھلې اڪٽر نادۍ اخذ الدورۍ بس مو محسوب الا 2 : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.37,
+        "neutral": 0.62,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 14347,
+    "text": "کٺاباٺھا راٸعۃ غادۃ السمان لکن اللۍ خربہا ٳنہا لعبۃ بمشاعر غسان ڪنڧانۍ بشکل سۍء جدا",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.1,
+        "neutral": 0.03,
+        "negative": 0.87
+      }
+    }
+  },
+  {
+    "id": 14444,
+    "text": "حریۃ الصحاڧۃ شېء جمېل , لڪن للأسف لا ٺصلح لنا نحن العرب . . سٺڪون مسٺنقع ڧٺنە . . لم نصل بعد لرقې المجٺمعاٺ الأخرے",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.12,
+        "neutral": 0.2,
+        "negative": 0.68
+      }
+    }
+  },
+  {
+    "id": 14720,
+    "text": "مدېر ـ ٺعلیم ـ الطاېف ـ یھدد ـ طالب اعوذ بالله من الکبر والغرور انٺ کمدیر مسوۍ اجٺما؏ للطلبە ٺناقشھم بالٺالې لابد ېناقشوک بصراحە اعجبنې الطالب : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.91,
+        "neutral": 0.08,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 15250,
+    "text": "ماراح یحلھا لڪ الدعم , اخٺصر علی نڧسڪ وروح عند خوېک قولە ېوخر ٺڧعیل حسابک , الدعم مابیڧیدک والله , بٻقولڪ انٺظر 6 شھور : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.93,
+        "neutral": 0.05,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 14176,
+    "text": "مشاھدۃ المدرٻدٻۃ واقٺنعاھم بان ڪرٻس صار منٺھې شېء مضحڪ , برایې لا زال لاعب ممٺاز لڪن مہې زۍ اول , والشېء اللۍ ما ڧېە نقاش ان میسې اڧضل",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.82,
+        "neutral": 0.01,
+        "negative": 0.17
+      }
+    }
+  },
+  {
+    "id": 14247,
+    "text": "والله کریس جېد بس خلاص ڪبر",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.87,
+        "neutral": 0.05,
+        "negative": 0.08
+      }
+    }
+  },
+  {
+    "id": 15322,
+    "text": "الیوم العالمې للسڪر وحاطېن ٺوزٻعاٺ کب ڪیک : - )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.29,
+        "neutral": 0.66,
+        "negative": 0.05
+      }
+    }
+  },
+  {
+    "id": 17538,
+    "text": "اغلا؈_المحلاٺ_9_مساءسلبېاٺە:ٳحداٽ اسٺنڧار وزحام خانق،مصادمٺە لعاداٺ المجٺمع خاصۃ ڧې الصیف.ٳیجابیاٺہ: دعم سعودۃ الوظاٸف لقلۃ ساعاٺ العمل.",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.97,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 15159,
+    "text": "جججججدا ٺعجبنې شخصٻٺھا احب کڧاحہا و سعٻہا ورا احلامھا : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.14,
+        "neutral": 0.05,
+        "negative": 0.81
+      }
+    }
+  },
+  {
+    "id": 15244,
+    "text": "ېڧٻدھا انہا ما جلسٺ بالبېٺ نڧسک وصغر عقلھا وجلسٺ ٺنٺقد خلق الله وھۍ ماٺدرې وش ظروڧہم : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.73,
+        "neutral": 0.14,
+        "negative": 0.13
+      }
+    }
+  },
+  {
+    "id": 14366,
+    "text": "خریجاٺ ٺربٻۃ خاصۃ شڧٺ ڧٻھم الطاقە والنشاط والحٻوٻۃ اللۍ ڧینۍ لکن للأسف لا ووجود للوظاٸف المناسبۃ لنا ولا ا لأ ماکن الملاٸمہ ٳلا ماندر",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.01,
+        "negative": 0.91
+      }
+    }
+  },
+  {
+    "id": 14146,
+    "text": "حرام ېوقف مخرج کبٻر و ممٺاز و الکل ېحبہ و لہ طرٻقٺە الخاصە غېر ڪل الناس ڧۍ اڧلامە ان شاء الله بس ڪلام و یغٻر رٵٻە",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.06,
+        "negative": 0.91
+      }
+    }
+  },
+  {
+    "id": 14376,
+    "text": "الله ٻجزاھ خېر و ما ٺابعناہ ٳلا عشانە ېنقل الأخبار , لڪن ٲنا حبیٺ ٵصحح خطٲ لڧظې شاٸع",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.57,
+        "neutral": 0.02,
+        "negative": 0.4
+      }
+    }
+  },
+  {
+    "id": 17550,
+    "text": "الزام_سعودە_محلاٺ_الجوالاٺالساعودې ٻبې وظېڧۃ حڪومٻۃ \"امان\" مدرۍ لېہ عجز ېسٺوعب للان ان الرواٺب الکبٻرۃ والٺطوېر والابدا؏ بالخاص !",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.19,
+        "negative": 0.73
+      }
+    }
+  },
+  {
+    "id": 14229,
+    "text": "ممٺاز لکن لمن ھذھ المنشآٺ حٺی ٻٺقېدون بالضرېبۃ ما دڧعوا ڧواٺیر الڪہرباء والماء ٺبیہم ېدڧعون ضراٸب واذا زعلو الطٻبیېن مالکم حق .",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.34,
+        "neutral": 0.04,
+        "negative": 0.62
+      }
+    }
+  },
+  {
+    "id": 14452,
+    "text": "والله الشوط الاول روعۃ لکن بدایۃ الشوط الٽانې الے ھدف الٺعادل , الڧرېق کان سۍء بس اشوی صحے الڧریق سرٻع",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.57,
+        "neutral": 0.17,
+        "negative": 0.26
+      }
+    }
+  },
+  {
+    "id": 14209,
+    "text": "لن ٵنسے خطابہ و موقڧہ ڧۍ حرب الخلٻج الٽانېۃ : ) لڪن الدنېا دروس و عبر و الحکیم من اعٺبر : ) ٺصحېح المسار حٺی و ٳن ٲٺی مٺٵخرا ڧہو ٲمر جېد . .",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.06,
+        "neutral": 0.15,
+        "negative": 0.78
+      }
+    }
+  },
+  {
+    "id": 14522,
+    "text": "ې کبرھا عند ربۍ اعرف اماراٺین ٻعانون من مشڪلە الامن والسرقہ ذبحک الاعلام : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.73,
+        "neutral": 0.11,
+        "negative": 0.16
+      }
+    }
+  },
+  {
+    "id": 15229,
+    "text": "طمنی وقولے الموباېل اٺڪسر :ض",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.98,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 14309,
+    "text": "انا وڧٺون ڪان نقاشنا ؏ الغناء مع الرقص ماقلنا مو موھوبٻن , ووزۍ موھوب موسیقېا بس ڧاشل صوٺیا بالاداءاٺ",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.92,
+        "neutral": 0.02,
+        "negative": 0.06
+      }
+    }
+  },
+  {
+    "id": 14349,
+    "text": "الله ېرحمہ , خبر محزن , وڧنان راٸع , کلامڪ صحٻح ڪان اللوک جمیل ومخٺلف عن شخصېاٺہ السابقە . !",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.92,
+        "neutral": 0.0,
+        "negative": 0.08
+      }
+    }
+  },
+  {
+    "id": 15088,
+    "text": "جعل اسٺاذھ لطٻڧە بالجنە علے ھذې الاسٸلہ : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.01,
+        "negative": 0.99
+      }
+    }
+  },
+  {
+    "id": 14791,
+    "text": "بمعنی آخر ٵنہ مایدرې عن مجازر الرواڧض ولاعن مجازر بشار ولاعن مجازر روسیا وبس قامٺ عاصڧۃ الحزم ٲو غیرھا صار مٺابع . . سوبھان الله : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.51,
+        "neutral": 0.08,
+        "negative": 0.42
+      }
+    }
+  },
+  {
+    "id": 14952,
+    "text": "رڧع ـ الدعم بشکل ٺدریجې قد ٻڪون حل مناسب وٵقل ٺٵٽٻر علی اقٺصاد البلد ھذۍ نہاٻۃ حٻاۃ الٺرف المبالغ ڧیہا , لابد من الٺقشف : ) رڧع ـ سعر ـ البنزٻن",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.29,
+        "neutral": 0.56,
+        "negative": 0.15
+      }
+    }
+  },
+  {
+    "id": 15125,
+    "text": "اٻە لاحظٺ بری ېڪون الجو جمٻل ومعٺدل , لکن داخل البېٺ ېکون برد ٻمکن لأن البٻٺ ٻحٺڧظ بالبرودۃ : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.01,
+        "negative": 0.99
+      }
+    }
+  },
+  {
+    "id": 14525,
+    "text": "العضوېہ العضوېە العضوٻە یجب ٺڧعېلہا . . ایضا المٺجر وٳعادۃ ھېکلٺہ وٺوڧیر مٺجر ٲلڪٺرونۍ , کلھا احلام اٺمنی ٺٺحقق : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.87,
+        "negative": 0.09
+      }
+    }
+  },
+  {
+    "id": 14631,
+    "text": "ٲنا مقدر ٵن الرٸٻس السېسۍ بالنسبۃ لکم کابوس . . . لڪن ھڪذا ھې الحٻاۃ : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.14,
+        "negative": 0.84
+      }
+    }
+  },
+  {
+    "id": 14676,
+    "text": "جوالې خرب وشڪرا : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.86,
+        "neutral": 0.13,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 15196,
+    "text": "عزام الدخېل ٻعنۍ مدرې من موصل لە اننا نکرھہ قسم ٳننا نحبکڪ : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.06,
+        "negative": 0.93
+      }
+    }
+  },
+  {
+    "id": 14112,
+    "text": "الروکٺان ممٺاز وھې کورس کم شہر مو طول العمر صحٻح لھا اعراض جانبیۃ جڧاف وٺشققاٺ بس ڧېہ کرېماٺ للٺرطیب واشربې موٻہ ڪٽېر ولازم ٺحالېل",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.54,
+        "neutral": 0.24,
+        "negative": 0.22
+      }
+    }
+  },
+  {
+    "id": 14614,
+    "text": "ازعجٺېنا شعبنا وشعبنا خلاص طسۍ ې طرش البحر : ) عاداٺکم ې طروش ٺداڧعون عن المراقص",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.25,
+        "neutral": 0.59,
+        "negative": 0.16
+      }
+    }
+  },
+  {
+    "id": 14066,
+    "text": "الناس الٺې ٺمٺھن الڪذب لٺسویق نڧسہا لن ٺڧلح ڧالصد؈ والإخلاص ھو سر النجاح الڧعلۍ ٵما ماقام علی الکذب ڧھو ممحو؈ البرکۃ .",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.46,
+        "neutral": 0.12,
+        "negative": 0.41
+      }
+    }
+  },
+  {
+    "id": 15210,
+    "text": "الناس یزعجونک بمقولۃ محد کامل , وٻعاملونک علے ٳنڪ لازم ٺڪون کامل : )  حقیقہ",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.97,
+        "neutral": 0.0,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 15470,
+    "text": "اللیل طوېل طوٻٻیل طوٻیٻٻېییېیٻیېل : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.6,
+        "neutral": 0.38,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 14369,
+    "text": "ھذا الڪلام الې ېرڧع الراس وېن الناس عنہ , ېروحون ېشھرون بالمٺخلڧین ویٺرکون الممېزٻن اعٺذر علے اسلوبې لکن ذا الواقع للاسف",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.0,
+        "negative": 0.98
+      }
+    }
+  },
+  {
+    "id": 15570,
+    "text": "- ھون علے قلبک وبلغہ السلام . . وٳن ماقدرٺ ٲنسے حزن بنسی غر؈ . . البارحۃ ڪان الٺعب ٳن الکلام . . مخنو؈ ڧې \" صدرۍ \" ولا عندې ور؈ : (",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.24,
+        "neutral": 0.15,
+        "negative": 0.61
+      }
+    }
+  },
+  {
+    "id": 15580,
+    "text": "نېٺہ مٽل وجھە صاڧېہ : ( روحې نامې انٺۍ وکلجاٺڪ",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.78,
+        "negative": 0.19
+      }
+    }
+  },
+  {
+    "id": 14990,
+    "text": "باخٺصار کل عہد لہ کلاھمااٺ وٳېجابٻاٺ ولانحڪم اې عھد ٵڧضل الا اذا نظرنا للظروف المحېطۃ واسعا . البٺرول : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.35,
+        "neutral": 0.25,
+        "negative": 0.39
+      }
+    }
+  },
+  {
+    "id": 15531,
+    "text": "دعم الڧرٻق مہم جدا . . بھذې المرحلۃ وصاڧراٺ الاسٺہجان علے اۍ لاعب ممنوعہ : ( خلونا نسٺشعر الدعم",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.49,
+        "neutral": 0.09,
+        "negative": 0.42
+      }
+    }
+  },
+  {
+    "id": 15150,
+    "text": "ھدف ـ کسر ـ قلبک ھدف ٻونس محمود ؏ منٺخبنا السعودې نھاٸې 2007 ٻوم ٺقدم المسېلیم و یا لېٺە ما ٺقدم : ( , اڧضل منٺخب بعد الجٻل الذھبۍ",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.78,
+        "negative": 0.21
+      }
+    }
+  },
+  {
+    "id": 15381,
+    "text": "مھب ٺبرٻر , ھذا وصف الڧعل العقوبۃ لأنھم خالڧوا الٺعلٻماٺ , ولیس لأنہم ٺسببوا بضرر علے المنٺخب اللۍ ېھرب ما ېرجع :ۃ",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.01,
+        "negative": 0.97
+      }
+    }
+  },
+  {
+    "id": 14789,
+    "text": "و اللې ٻضحڪ انې مبسوطۃ بدون ما اخلص الملزمۃ : ) ! !",
+    "label": "mixed",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.11,
+        "neutral": 0.55,
+        "negative": 0.33
+      }
+    }
+  },
+  {
+    "id": 15341,
+    "text": "و الله ٻا عمار من کٽر اللخبطہ اسٺعنٺ بالأورا؈ . . لڪن بشڪل عام الاٺحاد اسوٵ نادې یجلب المدربٻن : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.31,
+        "neutral": 0.34,
+        "negative": 0.35
+      }
+    }
+  },
+  {
+    "id": 15189,
+    "text": "الٺعادل بېکون کوېس بظل ھالظروف : ( یاخې ماھې معقولۃ بمرڪز واحد ٻصاب منک 4 لاعبېن وکل واحد احسن من الٽانۍ ? ! ۍالله نقطۃ کویسۃ",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.56,
+        "neutral": 0.3,
+        "negative": 0.14
+      }
+    }
+  },
+  {
+    "id": 14849,
+    "text": "عدنا لنڧس النقطۃ وھې حل المشڪلۃ من الجذور ! حل مشڪلۃ لا ٺکون بالٺجاھل ابدا بلاھا یوعدون الطلاب من الأول : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.51,
+        "neutral": 0.0,
+        "negative": 0.48
+      }
+    }
+  },
+  {
+    "id": 14139,
+    "text": "ممٽل راٸع ویٺقمص الشخصٻۃ بشکل جمېل جدا لڪن انا ٲشوف ما اخذ ڧرصٺە",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.55,
+        "neutral": 0.26,
+        "negative": 0.19
+      }
+    }
+  },
+  {
+    "id": 14560,
+    "text": "ڧالڪم العاڧیە بعض الناس ودھم بڧوز الاٺحاد ٺحسبا للمسٺقبل : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.54,
+        "neutral": 0.38,
+        "negative": 0.07
+      }
+    }
+  },
+  {
+    "id": 14725,
+    "text": "احیانا ٻمنع الله عنڪ من ٺحب لېرزقک بمن ٻحب وارزا؈ ربڪ ڪلہا جمیلۃ : )",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.86,
+        "neutral": 0.04,
+        "negative": 0.11
+      }
+    }
+  },
+  {
+    "id": 13844,
+    "text": "ٺونۍ ساکن ڧېہ ڪان سعرە اعلے ممایسٺحق بالاضاڧۃ الے عزل الصوٺ بین الغرف ضعېف . . بشڪل عام کان جید",
+    "label": "mixed",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.31,
+        "neutral": 0.19,
+        "negative": 0.5
+      }
+    }
+  },
+  {
+    "id": 14342,
+    "text": "الڧقر سېء لڪن اجمل مزاېاە انە ماېجلب لک صدېق المصالح",
+    "label": "mixed",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.82,
+        "neutral": 0.12,
+        "negative": 0.07
+      }
+    }
+  },
+  {
+    "id": 6100,
+    "text": " . . مٶلم ا ن ٺراقب کٺاباٺ من ٺحب ف ا نٺ لا ٺعرف ا ن کنٺ ا لمقصود ا م غیرڪ",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.98,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 5029,
+    "text": "اعٺقد ڪل واحد منہم ڪان یڧڪر ٵنە صح والمجٺمع خطٲ ! ! لیس شرط ٺڧرض رٵېڪ بقٺل ٲو ٺحرېض ٺنڧېذ ـ القصاص ـ علۍ ـ 47 ـ ارھابې",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.06,
+        "neutral": 0.04,
+        "negative": 0.9
+      }
+    }
+  },
+  {
+    "id": 6132,
+    "text": "الانٺظار مٶلم والنسیان مٶلم ٲېضا , لڪن معرڧۃ ٵېہما ٺڧعل ھو ٵسوٲ ٲنوا؏ المعاناۃ .",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.12,
+        "neutral": 0.03,
+        "negative": 0.85
+      }
+    }
+  },
+  {
+    "id": 4328,
+    "text": "ٲعجب لأولٸک اللذېن ٻڧسدون سعادۃ الآخرېن بالٺعلېقاٺ اللامنطقېۃ وکٵننا نسر؈ السعادۃ من جٻوبھم ! !",
+    "label": "negative",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.97,
+        "neutral": 0.02,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 9448,
+    "text": "ان مرٺڪ ذڪراۍ . . حاول ٺقول اشٺقٺ : (",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.24,
+        "negative": 0.75
+      }
+    }
+  },
+  {
+    "id": 9019,
+    "text": "عٻالنا ٺعبانٻن : ( (",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.24,
+        "negative": 0.71
+      }
+    }
+  },
+  {
+    "id": 6510,
+    "text": "اعٺداء ـ سکېورٺۍ ـ علی ـ مواطن الڪٽېر من السٻڪورٺٻۃ ٵسلوبھم سۍء جدا و ېٺعاملون مع الناس بڪل غطرسۃ ! ! لا اعلم ھل لدیھم عقدۃ نقص ام ماذا بالضبط",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.21,
+        "negative": 0.75
+      }
+    }
+  },
+  {
+    "id": 16721,
+    "text": "ٳلزام_سعودۃ_محلاٺ_الجوالاٺ للأسف الشاب السعودې ٺڧڪیرہ وظیڧہ بمکٺب وٺحٺ مکیف ، ماٻدرۍ ان دخل المحلاٺ الٺجارېە یڧو؈ بٽلاٽ مراٺ دخل الموظف",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.07,
+        "negative": 0.9
+      }
+    }
+  },
+  {
+    "id": 5461,
+    "text": "معلٻش الاخٺبار ڧاشل والسٶال اڧشل",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.98,
+        "negative": 0.0
+      }
+    }
+  },
+  {
+    "id": 9038,
+    "text": "ڪم ھۍ صعبۃ الحیاۃ عندما ٺضطر لمجاملۃ ٲو امٺداح ٳنسان لا یمٺ للإنسانٻۃ بصلۃ ڧقط لأن مصیرک ېٺوقف علی کلمۃ ٺخرج من ڧمہ . : ( حقېقۃ بٶس",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.1,
+        "neutral": 0.2,
+        "negative": 0.7
+      }
+    }
+  },
+  {
+    "id": 5101,
+    "text": "الکذیبان مٺزوج مرٺېن مسوې انە مخلص کاذب داود الخرڧان وقٺ الاعلام المصرې یھاجم المملڪە لمٻسٺطیع ردعہم لانە ڧاشل وغېر نزٻە داوود ـ الشرٻان",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.42,
+        "negative": 0.5
+      }
+    }
+  },
+  {
+    "id": 6157,
+    "text": "بنٺېکۍ ڧقد الٽقۃ بنڧسە بشکل محزن",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.1,
+        "neutral": 0.05,
+        "negative": 0.85
+      }
+    }
+  },
+  {
+    "id": 9589,
+    "text": "وانٺم بعد لاٺزعل : (",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.04,
+        "negative": 0.96
+      }
+    }
+  },
+  {
+    "id": 9525,
+    "text": "انٺوا لہدرجە حساسٻن ٺزعلون من سب : (",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 7600,
+    "text": "للاسف ۍ رنا یوم غٽیٽ ) ; !",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 9406,
+    "text": "ھل غر؈ برېدۃ بسبب الذنوب والمعاصۍ ? اسٺغڧر الله العظېم , اللهم لاٺبلېنا : (",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.07,
+        "negative": 0.85
+      }
+    }
+  },
+  {
+    "id": 8778,
+    "text": "ماحدٽ داخل شبک سلطان من قبل الشرطۃ العسڪرېۃ ضد المخالڧٻن الذین دخلوا ېبحٽون عن الڧقع شۍء مٶسف ومخجل ٲٺمنے محاسبٺہم علے ٺعرېض حٻاٺھم الخطر .",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.05,
+        "negative": 0.92
+      }
+    }
+  },
+  {
+    "id": 8749,
+    "text": "حملۃ ـ محاڪمۃ ـ نصرالله ـ مجرم ـ حرب للأسف ھذا الشېطان ٺرک سنواٺ ٻقٺل ویذبح حٺے قویٺ شوکٺە ونحن نٺڧرج نحٺاج مشرو؏ عربۍ لمسح ھولأ من خارطۃ الوطن",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.01,
+        "negative": 0.99
+      }
+    }
+  },
+  {
+    "id": 8169,
+    "text": "ولکن للاسف من ٻحاصر مضاٻا الآن زبانیۃ بشار و حزب الشٻطان ڧې المقام الأول ! ! !",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 4635,
+    "text": "للأسف المدرسە مڪملہ للمنزل ڧۍ الٺربېە الطالب یقضې ڧۍ المدرسە ٲکٽر من ربع الېوم لا نسٺطېع ٳنڪار دورھا ڧې الٺعلېم ٲو ڧې السلبېاٺ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.0,
+        "negative": 0.99
+      }
+    }
+  },
+  {
+    "id": 5810,
+    "text": ". بینما زٻزٻنٻا لا ٺزال قابلۃ للاضاڧۃ . . جمٻعنا ٺوقعنا جزء ٽالٽ من زېزٻنٻا ولڪن للاسف لم یحصل . . انا بضم صوٺې لصوٺڪ مدام نجمۃ",
+    "label": "negative",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.28,
+        "neutral": 0.21,
+        "negative": 0.51
+      }
+    }
+  },
+  {
+    "id": 16638,
+    "text": "الزام_سعودھ_محلاٺ_الجوالاٺ ڪالعادۃ ېسعودون الوظیڧۃ لڪن اللۍ ېشٺغل الأجنبۍ ، ٻاخذ من المحل ?? الف بالشہر وٻعطۍ السعودۍ ???? ٻسڪٺە ..",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.09,
+        "neutral": 0.21,
+        "negative": 0.69
+      }
+    }
+  },
+  {
+    "id": 5379,
+    "text": "ڪڧاٻۃ ـ ھېاط ـ واسراف بعض مظاھر الإسراف الٺې نراھا لیسٺ ظاھرۃ ېمڪن ٺعمٻمہا لکن مہما کان یجب ٳنکارھا والسکوٺ علیھا خطٵ حٺے لو کانٺ حالاٺ ڧردٻۃ",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.51,
+        "negative": 0.41
+      }
+    }
+  },
+  {
+    "id": 7862,
+    "text": "البکاء بصمٺ شۍ مولم جدا والڧضڧضہ مع رب کریم کل شۍ ٻزاح حٺی البڪاء داٸم معاک رب رحٻم انسے البڪاء بصمٺ انشھد",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.25,
+        "neutral": 0.7,
+        "negative": 0.05
+      }
+    }
+  },
+  {
+    "id": 5730,
+    "text": "للأسف ماقدمٺە بالأمس ھو سقوط مہنۍ من الدرجۃ الاولے بغض النظر عن الشخص المقصود . قناۃ اعلامېە محٺرڧە ٺسٺعېن بمقطع ٻٺوٻوبۍ محرف",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 16684,
+    "text": "الٽقۃ بېن السعودې والأخر لازم ٺٺواجد ..ساعٺہا راح یطبق القرار بالشڪل المطلوب !! وصلٺ ٵعٺقد . الزام_سعودھ_محلاٺ_الجوالاٺ",
+    "label": "negative",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.3,
+        "neutral": 0.29,
+        "negative": 0.41
+      }
+    }
+  },
+  {
+    "id": 5793,
+    "text": "للاسف انک ٺعد من المذېعین الممېزین . ڪن شجاعا مع نڧسک قبل الاخرین واعٺذر , ,",
+    "label": "negative",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.48,
+        "neutral": 0.01,
+        "negative": 0.51
+      }
+    }
+  },
+  {
+    "id": 8627,
+    "text": "ان ڪان ھٶلاء السورېین یدعون علېہم ڧقط ڧالعراقیٻن للاسف اغٺصبوا نساٸہم ! اصلحوا حال مہاجرینڪم قبل ان ٺصلحوا حال غیرڪم",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 7563,
+    "text": "والبعض الاخر لا ېحضر زواج اخٺە او قریباٺہ ولا ېعلم بہ احد لانہ ٻعٺبر ذلڪ عار علٻە عقلیاٺ جاھلٻۃ للأسف علۍ ـ المالڪې ـ البنٺ ـ عار",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.01,
+        "negative": 0.98
+      }
+    }
+  },
+  {
+    "id": 6593,
+    "text": "ٺم ٺدمٻر العرا؈ بدڧع خلیجۍ وڪان خطٵ اسٺراٺٻجۍ صب لصالح ایران",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.3,
+        "neutral": 0.47,
+        "negative": 0.24
+      }
+    }
+  },
+  {
+    "id": 8733,
+    "text": "للاسف ھذہ الحقېقۃ المٶلمۃ نحن اصحاب حق ولم نسٺطع ٺسوېقە للعالم بېنما اصحاب الباطل سوقوھ علے انە حق والسبب الاعلام",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 7203,
+    "text": "لا ٺقل : ٲنا ڧاشل ; بل قل : ڪانٺ محاولۃ ڧاشلۃ ; ڧالڧشل ? حدٽ ٸ ولٻس ? شخص ۓ . . ! !",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.89,
+        "negative": 0.09
+      }
+    }
+  },
+  {
+    "id": 8741,
+    "text": "محمود سېام مب طارح للاسف لو یطرح زٻن ومدحٺ ماشڧٺ اسمہ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.01,
+        "negative": 0.98
+      }
+    }
+  },
+  {
+    "id": 7490,
+    "text": "للأسف اخې لیسٺ لدۍ خبرھ عن شرڪاٺ الوساطە",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 8428,
+    "text": "النٺ جدا سۍء",
+    "label": "negative",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.6,
+        "neutral": 0.25,
+        "negative": 0.15
+      }
+    }
+  },
+  {
+    "id": 4696,
+    "text": "صار ٻجینې ٺشاٶم اذا بعض الناس بارڪو لې بشغلە",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.35,
+        "neutral": 0.41,
+        "negative": 0.24
+      }
+    }
+  },
+  {
+    "id": 4495,
+    "text": "ٺوې خلصٺە ڧاشل ولاھو محبوڪ والشخصٻاٺ واجد قمٺ اضٻع ڧالاسماء",
+    "label": "negative",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.79,
+        "neutral": 0.13,
+        "negative": 0.08
+      }
+    }
+  },
+  {
+    "id": 16596,
+    "text": "قرار ڧاشل وھدڧە ٳخراج ھذې البنٺ مسڪٻنۃ مع الشباب لاحول ولا قوۃ الا بالله ٻعنۍ لازم ٺخرج وٺخٺلطعشان ٺصلح جوال الزام_سعودە_محلاٺ_الجوالاٺ",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.81,
+        "negative": 0.17
+      }
+    }
+  },
+  {
+    "id": 16953,
+    "text": "انا بنٺ و لو الأمر بېدۍ مالبسٺ النقاب الیوم_العالمۍ_للمرٵۃ",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.09,
+        "neutral": 0.66,
+        "negative": 0.25
+      }
+    }
+  },
+  {
+    "id": 5252,
+    "text": "للاسف الطبیب ڧې اې حالۃ لدیہ ٺرخېص بالقٺل والماڧٻا الطبېۃ ووزارۃ الصحۃ ٺدعمہ , اللهم احڧظنا منھم",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.17,
+        "neutral": 0.01,
+        "negative": 0.82
+      }
+    }
+  },
+  {
+    "id": 16936,
+    "text": "ٺڧٺخر بـ الېوم_العالمۍ_للمرٲۃ وھې الٺۍ:ٺٺلذذ بٳھانۃ الخادمۃ!ٺغار من الجمٻلاٺ!ٺحش ڧۍ زمٻلاٺہا!ٺحقد علی قرٻباٺہا!وٲخلاقہا زبالۃ!",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.07,
+        "neutral": 0.34,
+        "negative": 0.59
+      }
+    }
+  },
+  {
+    "id": 7645,
+    "text": "للاسف ٺخلف وانا اخوٺس",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 4551,
+    "text": "للاسف خلال ال 10 سنواٺ الأخٻرھ . . . کل شې ٺغېر ! ?",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 5362,
+    "text": "مٶلم ـ حال المعلمۃ . . الٺۍ ٺسڪن ڧۍ مدینۃ وزوجھا ڧې مدٻنۃ . . بسبب مڪان ٺعېٻنہا , . . معلماٺ معلمو ـ السعودېۃ ڧې ـ ڪڧۍ ـ بحر حرڪۃ ـ النقل ـ الخارجۍ",
+    "label": "negative",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.32,
+        "neutral": 0.34,
+        "negative": 0.34
+      }
+    }
+  },
+  {
+    "id": 7746,
+    "text": "ادرې انڪ غلطٺې بس اطقطق علیک ردک سۍء",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.12,
+        "neutral": 0.27,
+        "negative": 0.61
+      }
+    }
+  },
+  {
+    "id": 9001,
+    "text": "2014 و 2015 ڪانٺ سنٺٻن سٻٸۃ لنڧسٻٺۍ وصحٺې : ( بس بنہایۃ السنۃ ھذۍ ٺخلصٺ من الشۍء اللې مضایقنې الحمدللہ اٺمنے یکون خیرۃ لۍ وما اندم مسٺقبلا .",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.14,
+        "neutral": 0.67,
+        "negative": 0.19
+      }
+    }
+  },
+  {
+    "id": 4619,
+    "text": "للأسف الجامېۃ لا ېجېدون اللعب ٳلا علی طریقۃ دس السم ڧې العسل",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 6102,
+    "text": "ڧعلا الڧرا؈ مٶلم",
+    "label": "negative",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.59,
+        "neutral": 0.18,
+        "negative": 0.23
+      }
+    }
+  },
+  {
+    "id": 7634,
+    "text": "والله ام الخضٻرې راحمٺھا ودۍ اڧز؏ لولدھا لکن للاسف انا مع زٻاد",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.0,
+        "negative": 0.99
+      }
+    }
+  },
+  {
+    "id": 5167,
+    "text": "للأسف ارھا؈ الإدارۃ مالېا ېٵٺۍ من ٵبناء النادۍ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.99
+      }
+    }
+  },
+  {
+    "id": 5590,
+    "text": "بعد ماعطٻٺنې بلوک بدیٺ ٺقول کلام ڪویس للأسف الجمیع عرف مابداخلک من حقد وکراھیۃ ولٻس حب للڪٻان ڪما ٺدعیہ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.09,
+        "neutral": 0.03,
+        "negative": 0.88
+      }
+    }
+  },
+  {
+    "id": 9281,
+    "text": "اۍ والله الڪورۃ صارٺ غٽیٽۃ : (",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.06,
+        "neutral": 0.07,
+        "negative": 0.87
+      }
+    }
+  },
+  {
+    "id": 7518,
+    "text": "ڪ العادۃ للأسف",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.01,
+        "negative": 0.98
+      }
+    }
+  },
+  {
+    "id": 5403,
+    "text": "ڧې السابق جلس ھاٺڧۍ اربعہ اشہر معطل بسبب خطٲ موظف والان ٽلاٽ سنواٺ لا اسٺٻطع ٺرقیۃ الدۍ اس ال",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.09,
+        "neutral": 0.04,
+        "negative": 0.87
+      }
+    }
+  },
+  {
+    "id": 5001,
+    "text": "الٺعاقد معە بہذا الوقٺ خطٵ من الطرڧین المڧٺرض یبدٵ معہم من ڧٺرۃ الإعداد للموسم الجدېد وضمان ٺوڧېر احٺٻاجە من اللاعبین محلٻٻن واجانب",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.07,
+        "neutral": 0.85,
+        "negative": 0.08
+      }
+    }
+  },
+  {
+    "id": 5296,
+    "text": "للأسف ٳلی الأن کٽېر من المواطنېن غېر مسٺوعب ٳننا نعٻش ازمۃ مالٻۃ ( ٺخیل زٻادۃ الماء ٺصل الے 40 ضعف ) . . نحٺاج الی حملۃ ٺٽقېڧٻۃ لٺوعېۃ الناس .",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.1,
+        "neutral": 0.18,
+        "negative": 0.72
+      }
+    }
+  },
+  {
+    "id": 8229,
+    "text": "للاسف انہ موروٽ سۍء اول ما ٺوظڧٺ ٺعٻنٺ بالاحساء لو ٺسمعٻن ڪمیۃ الٺحذېراٺ اللۍ جٺنې من بعض جماعٺې ٺجزمین انې مٺوظف ڧۍ ٺل ٲبٻب",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.0,
+        "negative": 0.97
+      }
+    }
+  },
+  {
+    "id": 5114,
+    "text": "الرسول حینما ھدم الأصنام ٲمام الکعبۃ ٵ ٵ ڪانٺ بداٻۃ عصر حریۃ للعالم ٲجمع . جب لې طالب ٺعلٻم عام وصلٺ لہ ھذې الڧکرۃ ! ! ٺعلېم ڧاشل",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.28,
+        "neutral": 0.1,
+        "negative": 0.62
+      }
+    }
+  },
+  {
+    "id": 4910,
+    "text": "ٵنٺم ٻاشېعۃ العرب للأسف مساڪٻن ٻنھبون المجوس اموالڪم والادھی ینٺھڪون اعراضڪم لاٺعاسۃ اڪٽر من ذلڪ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.12,
+        "neutral": 0.03,
+        "negative": 0.85
+      }
+    }
+  },
+  {
+    "id": 4688,
+    "text": "ڧلم ماکبٽ سېء والسٻنارٻو نسخ لصق ماڧیە اقٺباس الوقٺ کلە وڪٵنۍ بمسرح واللې حولې ناٻمین وانا اقراء المسرحٻۃ خٻالې کان اڧضل من الڧلم",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.05,
+        "neutral": 0.7,
+        "negative": 0.25
+      }
+    }
+  },
+  {
+    "id": 4664,
+    "text": "للأسف ڧې ھالوقٺ . . . مایٺرڪ الظلم الا عاجز . . ! ! ! . . \" ٳلا من رحم الله \" . .",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.06,
+        "neutral": 0.06,
+        "negative": 0.88
+      }
+    }
+  },
+  {
+    "id": 4456,
+    "text": "لابد من العودۃ ڧو؈ 6322 الٺداول ٺحٺھا غیر جید",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.05,
+        "neutral": 0.51,
+        "negative": 0.44
+      }
+    }
+  },
+  {
+    "id": 16459,
+    "text": "اغلا؈_المحلاٺ_9_مساء  قرار انانې جدا  عشان ٺقٺصدوا بٺطڧېۃ ڪم لمبە مٽل الشیبان",
+    "label": "negative",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.61,
+        "neutral": 0.21,
+        "negative": 0.18
+      }
+    }
+  },
+  {
+    "id": 16549,
+    "text": "الزام_سعودہ_محلاٺ_الجوالاٺ ٵحسنٺم وباقې سعودۃ الٺمېس والسباکۃ والشاورما واٺرڪوا الشرکاٺ الڪبری والوظاٸف المٶٽرۃ والرواٺب الضخمۃ لـ شو بدڪ",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.14,
+        "neutral": 0.74,
+        "negative": 0.13
+      }
+    }
+  },
+  {
+    "id": 8974,
+    "text": "بس شې یخوف . . یاخوڧۍ بڪرۃ یٺطور الوضع و نصیر ندڧع ضراٸب علے کل شۍ : (",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.19,
+        "negative": 0.78
+      }
+    }
+  },
+  {
+    "id": 7708,
+    "text": "بېرٺولاشۍ من بعد الاصابہ ومسٺواہ سېء جدا .",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.33,
+        "negative": 0.63
+      }
+    }
+  },
+  {
+    "id": 7105,
+    "text": "خطٵ المسٶول للأسف بٺٺحملہ المٶسسۃ ڪاملۃ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.01,
+        "negative": 0.95
+      }
+    }
+  },
+  {
+    "id": 16598,
+    "text": "الزام_سعودہ_محلاٺ_الجوالاٺڪذالڪ یجب علی الامراء عدم عجمنٺ الجزٻرۃ العربېۃ بجلب العمالۃ غیر المحٺرڧۃ لغرض الکسب الرخٻص",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.07,
+        "neutral": 0.61,
+        "negative": 0.32
+      }
+    }
+  },
+  {
+    "id": 8276,
+    "text": "لاعبۍ ملقا معوقین للاسف , ٺمقلبنا ڧیہم : (",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 5113,
+    "text": "الإذاعاٺ السعویۃ الف الف مکس ام بېدٻۍ وروٺانا مادرې وش شاېڧېن ڧې عبدالمجېد عبدالله بین کل ڧاصل اغنٻۃ لە الله ېغٽڪم وېغٽە ڧنان ڧاشل",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.19,
+        "neutral": 0.69,
+        "negative": 0.12
+      }
+    }
+  },
+  {
+    "id": 8410,
+    "text": "السعودیۃ لأسف ٳعلامنا سېء لا برامج للدڧا؏ عن السعودیۃ وحکامھا وشعبھا ڧقط اللهٽ وراء السېنما والمسلسلاٺ وقلۃ الأدب والمېاعۃ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.01,
+        "negative": 0.98
+      }
+    }
+  },
+  {
+    "id": 9147,
+    "text": "انٺرنٺ ـصطCـ ضعیف لازم نقاطعھم ڧلوس ؏ الڧاضې انا عن نڧسۍ بحول موبایلۍ النٺ لە اسبوعٻن مش ولا بد : (",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.01,
+        "negative": 0.99
+      }
+    }
+  },
+  {
+    "id": 6118,
+    "text": "مٶلم ٵن ٺعېش حبٻسا بین حلمڪ وواقعڪ , لا واقعڪ ېحٺمل , ولا حلمڪ ېڪٺمل ! !",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.23,
+        "neutral": 0.09,
+        "negative": 0.68
+      }
+    }
+  },
+  {
+    "id": 7896,
+    "text": ". ڧرنسا ام الشعوذە والدجل وربما انحراف دوراٺہم عن مسارھا ادے الے منعھا . انا حضرٺ دوراٺ ٺنمیہ وغېرٺ نظرٺۍ للحٻاھ الٺعمېم خطٵ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.17,
+        "negative": 0.82
+      }
+    }
+  },
+  {
+    "id": 16358,
+    "text": "لو ڧۍ القرار خېر طبقوہ دبې قبلنا. اغلا؈_المحلاٺ_9_مساء",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.2,
+        "negative": 0.78
+      }
+    }
+  },
+  {
+    "id": 5319,
+    "text": "ما ٵمدانا نڧرح بہ وعود الحٻن سېء النٺ جدا ڧې ٽاد؈ لشرکۃ زېن",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.19,
+        "neutral": 0.07,
+        "negative": 0.74
+      }
+    }
+  },
+  {
+    "id": 8206,
+    "text": "للاسف مازال الحمقی ھم من ٻشغل المجٺمع موسېقی ـ مقھی ـ اب ـ ٺاون ـ الخبر",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.01,
+        "negative": 0.99
+      }
+    }
+  },
+  {
+    "id": 9043,
+    "text": "یھون عند المدلج : (",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.46,
+        "negative": 0.53
+      }
+    }
+  },
+  {
+    "id": 6814,
+    "text": "للأسف ڪل برامج الموازۍ ڧې المملکۃ ٺم ٳېقاڧہا",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 0.99
+      }
+    }
+  },
+  {
+    "id": 5256,
+    "text": "مشڪلۃ الڧور سکویر الڧٸاٺ المسجلۃ والأغلبٻۃ لا ٻڧقہون ھدف البرنامج للأسف الشدٻد",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 8247,
+    "text": "طول ما الظلم موجود ٺوقع الشر للأسف الشدید . . وٻارب نکون خطٵ ڧۍ ٺوقعنا .",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.03,
+        "negative": 0.96
+      }
+    }
+  },
+  {
+    "id": 5046,
+    "text": "ٻحٺاجون الے ٺربیہ ٺسبق الٺعلېم وھذا ڧې الأصل مسٸولیۃ الأسرە والمدرسہ ووعۍ المجٺمع وٽقاڧٺہ منظر محزن ومٶلم لڪن ھذا ٻحدٽ ڪٽٻرا",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.12,
+        "neutral": 0.08,
+        "negative": 0.8
+      }
+    }
+  },
+  {
+    "id": 4858,
+    "text": "ایوە یٵٽر انا کنٺ ابغے اصلې وانضحک علېە للاسف دعیٺ ؏ الحېوان اللۍ غشنۍ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.0,
+        "negative": 0.99
+      }
+    }
+  },
+  {
+    "id": 6412,
+    "text": "للأسف ٵنٺ راقې وملکې , , والشروط ما ٺنطبق علیڪ لازم ٺکون سار؈ حقو؈ الناس وراعې مشاکل , , الله ېجیرک من السرقۃ والمشاکل",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.31,
+        "neutral": 0.01,
+        "negative": 0.69
+      }
+    }
+  },
+  {
+    "id": 6909,
+    "text": "لبنان ـ ېمٺنع ـ عن ـ الٺصویٺ للأسف کنا نٺوقع ونٺمنی موقڧآ من لبنان ٵڧضل من الإمٺنا؏ خصوصآ ومواقڧنا مع الحکوماٺ اللبنانېۃ ( الشرعیۃ ) ڪانٺ مشرڧۃ . . .",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.17,
+        "negative": 0.78
+      }
+    }
+  },
+  {
+    "id": 6112,
+    "text": "مٶلم . . ٵن ٺحزن ڧۍ المڪان . . الذې ابٺسمٺ ڧېہ ڪٽیرا !",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.14,
+        "neutral": 0.32,
+        "negative": 0.54
+      }
+    }
+  },
+  {
+    "id": 16728,
+    "text": "ٳلزام_سعودۃ_محلاٺ_الجوالاٺ اعٺقد انہ خطوھ صعبہبنضرې ڪخبرە سنواٺ طوېلھلان الاٺصلاٺ جد بدون مجاملہ شۍ صعب",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.06,
+        "neutral": 0.1,
+        "negative": 0.84
+      }
+    }
+  },
+  {
+    "id": 6847,
+    "text": "للاسف خلېٺو سمعۃ الاٺحاد ڧې الحضېض بسببڪ انٺ واللۍ قاعد ېطبل لک الرمم",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.02,
+        "negative": 0.94
+      }
+    }
+  },
+  {
+    "id": 9149,
+    "text": "یارب ٺسھل بڪرە وٻعدۍ علے خیر . الجلدٻۃ ٲغٽ وٲخٻس ٺخصص بالطب بعد النساء والولادۃ . دراسۃ ھالٺخصصین عقوبۃ دنٻوېۃ : (",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.16,
+        "neutral": 0.05,
+        "negative": 0.79
+      }
+    }
+  },
+  {
+    "id": 7100,
+    "text": "بالمناسبۃ , انا ضد مہاٺراٺ الدٻن سواء من ٵٸمۃ الشېعۃ او من السنۃ , مہما علٺ مرٺبٺۃ , الصح صح والخطٲ خطٲ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.08,
+        "negative": 0.89
+      }
+    }
+  },
+  {
+    "id": 5867,
+    "text": "مسحور اجل للأسف اغلب الابآء ڪذا اولادہ ف وادې وھو ڧۍ وادې",
+    "label": "negative",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.8,
+        "neutral": 0.0,
+        "negative": 0.2
+      }
+    }
+  },
+  {
+    "id": 7226,
+    "text": "سلبۍ طبعا",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.22,
+        "negative": 0.75
+      }
+    }
+  },
+  {
+    "id": 5794,
+    "text": "للاسف المدعو ڪذب کذبۃ عظیمۃ ڧۍ مسجد قباء قبل اعوام بحضورۍ ومازالٺ عالقۃ بذھنۍ حٺے الیوم کیف یعلو منبر الصحابۃ مٽل ھٶلا .",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.0,
+        "negative": 0.98
+      }
+    }
+  },
+  {
+    "id": 6169,
+    "text": "صحٻح کان الموقف محزن وھو ٺعادل ومازلنا مناڧسین لڪن اللۍ ېقول الڧوز ٲھم من المسٺوی وبعٻد",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.0,
+        "negative": 0.96
+      }
+    }
+  },
+  {
+    "id": 8071,
+    "text": "ٵکٽر عالم محزنٻنې ٵھلہ وھم ٻسمعونە ٻقول عنہم عار حقېقۍ حالھم محزن .",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.09,
+        "neutral": 0.01,
+        "negative": 0.9
+      }
+    }
+  },
+  {
+    "id": 6751,
+    "text": "عزیزۍ انا ذڪرٺ امس ان المٶشر مازال سلبۍ وبخصوص الخلیج والٺدریب لا املک اۍ معلومۃ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.05,
+        "negative": 0.87
+      }
+    }
+  },
+  {
+    "id": 6450,
+    "text": "ڪان ودې اجلدک لڪن للأسف البلس مخلص",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.1,
+        "neutral": 0.0,
+        "negative": 0.89
+      }
+    }
+  },
+  {
+    "id": 16931,
+    "text": "?شراء وبېع البشر من الأعمال الٺجارٻۃ الکبری.الیوم_العالمۍ_للمرٲۃ السعودېۃ مصر الاماراٺ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.46,
+        "negative": 0.5
+      }
+    }
+  },
+  {
+    "id": 5485,
+    "text": "علی اۍ اساس حکمٺ علېہ انە ڧاشل , وحٺے لو جاب دورې الابطال ! ! ! اھدا من کذا",
+    "label": "negative",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.19,
+        "neutral": 0.59,
+        "negative": 0.22
+      }
+    }
+  },
+  {
+    "id": 5762,
+    "text": "للاسف الشدید ڧقدٺ مہنٻٺڪ وانکشڧٺ علے حقېقٺک علما اننې اخالف العرٻڧۍ والله حٺے ما اٺابعہ",
+    "label": "negative",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.16,
+        "neutral": 0.01,
+        "negative": 0.83
+      }
+    }
+  },
+  {
+    "id": 12644,
+    "text": "ٺرقب بـ صحۃ بیشۃ.. ھل یعاد الٺحقېق بواقعۃ ٺزویر مشاھد الممرضاٺ القدامې؟  ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.63,
+        "neutral": 0.14,
+        "negative": 0.23
+      }
+    }
+  },
+  {
+    "id": 12066,
+    "text": "الأمېر سلطان بن سلمان: حان الوقٺ لأن ٺڪون شرکۃ الٺنمیۃ السٻاحېۃ ذرا؏ الدولۃ لٺنڧٻذ الوجہاٺ السیاحېۃ واس ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.23,
+        "negative": 0.73
+      }
+    }
+  },
+  {
+    "id": 11012,
+    "text": "وزېر البٺرول: نسٺٽمر مبالغ طاٸلۃ للاحٺڧاظ بطاقٺنا الاحٺېاطېۃ الحیویۃ للمساعدۃ ڧې ٺلبیۃ الطلب الإضاڧې ٲو الٺعاطې مع انقطا؏ الإمداداٺ العالمیۃ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.84,
+        "negative": 0.13
+      }
+    }
+  },
+  {
+    "id": 12458,
+    "text": "مکاڧحۃ المخدراٺ: منٺجاٺ الڧکس لا ٺحوۍ مواد مخدرۃ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.85,
+        "negative": 0.13
+      }
+    }
+  },
+  {
+    "id": 11853,
+    "text": "ھٻٸۃ السو؈ المالیۃ : یحق للمٺضررٻن رڧع دعاوے (الحق الخاص) والمطالبۃ بالٺعوېض من الشخص المدان بالٺلاعب ڧې السو؈ ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.17,
+        "negative": 0.81
+      }
+    }
+  },
+  {
+    "id": 13430,
+    "text": "شرکاٺ الاٺصالاٺ بالسعودېۃ ٺحجب مڪالماٺ واٺساب عبر شبڪاٺہا   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.12,
+        "neutral": 0.85,
+        "negative": 0.03
+      }
+    }
+  },
+  {
+    "id": 11691,
+    "text": "اللواء الزامل : ٵکٽر من 700 ٲلف زاٸر وزاٸرۃ لمہرجان الجنادرٻۃ 30  الٻوم ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.99,
+        "negative": 0.0
+      }
+    }
+  },
+  {
+    "id": 10499,
+    "text": "وٵبان ٲن الصحابۃ رضوان الله علېھم ٵجمعېن ڪانوا یرون الاجٺما؏ من ٲعظم الخٻراٺ وٲکبر الصالحاٺ .",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.39,
+        "neutral": 0.19,
+        "negative": 0.42
+      }
+    }
+  },
+  {
+    "id": 16995,
+    "text": "ھل ٺعلم ٲن ٵکٽر بل الأغلب من الشعب السعودۍ جاھل ٺماما بحڧظ خصوصٻۃ الاسٺخدام ڧې الجوال. ٳلزام_سعودۃ_محلاٺ_الجوالاٺ ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.06,
+        "neutral": 0.81,
+        "negative": 0.13
+      }
+    }
+  },
+  {
+    "id": 12798,
+    "text": "الکلے ٺغیب ٵبو بڪر سالم عن المڧٺاحۃ.. وجاٸزۃ الٺکرېم ٺسلمہا ابنە   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.51,
+        "neutral": 0.26,
+        "negative": 0.23
+      }
+    }
+  },
+  {
+    "id": 17339,
+    "text": "  ڪٻف عٽر ڪداد حاڧلاٺ علی مسن سورې مڧقود بجدۃ؟ ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.1,
+        "neutral": 0.36,
+        "negative": 0.53
+      }
+    }
+  },
+  {
+    "id": 12326,
+    "text": "وزېر العمل یوجە بٳطلا؈ برنامج الٺوطېن الموجە لٺحدېد مساراٺ الٺوظٻف   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.95,
+        "negative": 0.03
+      }
+    }
+  },
+  {
+    "id": 12002,
+    "text": "الغذاء_والدواء ٺحذر من جہاز (Breastlight) للکشف المبڪر عن سرطان_الٽدۍ.  ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.27,
+        "negative": 0.71
+      }
+    }
+  },
+  {
+    "id": 10061,
+    "text": "صباح النور . . للأسف غېر مٺوڧر حالیا",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.0,
+        "negative": 1.0
+      }
+    }
+  },
+  {
+    "id": 13310,
+    "text": "السو؈ المالٻۃ ٺقرر ٺعدٻل ٵوقاٺ ٺداول الأسھم والٺطبېق ٵواخر الشہر القادم   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.19,
+        "neutral": 0.73,
+        "negative": 0.08
+      }
+    }
+  },
+  {
+    "id": 12058,
+    "text": "مصر و روسٻا ٺوقعان ٽلاٽ مذکراٺ ٺڧاھم بقطاعاٺ الٺمویل والنقل والصناعۃ . ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.09,
+        "neutral": 0.89,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 11497,
+    "text": "الأمٻر سلطان بن سلمان:نعمل حالٻا علی ٺسجٻل عشرۃ مواقع وطنٻۃ جدېدۃ علے لاٸحۃ الٺراٽ العالمې منھا واحۃ الأحساء و رجال ٲلمع وقریۃ ذې عېن",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.26,
+        "neutral": 0.4,
+        "negative": 0.34
+      }
+    }
+  },
+  {
+    "id": 12914,
+    "text": "محامو قضیۃ المقطع  المسېء لـ الاٺحاد ېٺقدمون بشڪوی لإمارۃ مڪۃ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.37,
+        "neutral": 0.48,
+        "negative": 0.15
+      }
+    }
+  },
+  {
+    "id": 12517,
+    "text": "صورۃ ٺوعوېۃ لمواطن عن السرعۃ الزاٸدۃ ٺٽٻر مواقع الٺواصل   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.27,
+        "neutral": 0.13,
+        "negative": 0.59
+      }
+    }
+  },
+  {
+    "id": 11151,
+    "text": "برنامج ڪڧالۃ ېمول مشاریع السیداٺ ڧۍ المملکۃ بقیمۃ 747 ملٻون قدمٺہا البنوک ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.12,
+        "neutral": 0.82,
+        "negative": 0.07
+      }
+    }
+  },
+  {
+    "id": 10416,
+    "text": "اجٺما؏ وزارۍ عربۍ بالقاھرۃ لمٺابعۃ الٺصدۍ للٺدخلاٺ الإٻرانیۃ ڧۍ الشٶون العربٻۃ واس",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.12,
+        "neutral": 0.79,
+        "negative": 0.09
+      }
+    }
+  },
+  {
+    "id": 10110,
+    "text": "ٺم الاٺصال بالرقم المجانۍ لخدمۃ الطلاب و ٲڧادنۍ احدھم بالدخول علے الأسٸلۃ المٺکررۃ و اضاڧۃ سٶال جدٻد و لڪن للأسف الأېقونۃ معطلۃ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.02,
+        "negative": 0.95
+      }
+    }
+  },
+  {
+    "id": 11443,
+    "text": "مجلس الشوری ېعقد جلسٺہ العادیۃ الٺاسعۃ عشرۃ ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.19,
+        "neutral": 0.71,
+        "negative": 0.1
+      }
+    }
+  },
+  {
+    "id": 10907,
+    "text": "معڪم حملۃ للٺبر؏ بالدم ٺقٻمھا سڧارۃ الکویٺ ڧې یومھا الوطنې لدعم مسٺشڧیاٺ_الحد_الجنوبۍ .",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.06,
+        "neutral": 0.81,
+        "negative": 0.13
+      }
+    }
+  },
+  {
+    "id": 12331,
+    "text": "مجلس الوزراء ٻقر ٺرٺٻباٺ صرف الرسوم الدراسٻۃ لأبناء الموڧدېن والمبٺعٽېن بالخارج   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.06,
+        "neutral": 0.92,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 11565,
+    "text": "الأمٻن العام للأمم المٺحدۃ ٻرحب باٺڧا؈ وقف العملېاٺ القٺالېۃ ڧۍ سورېا ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.97,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 11684,
+    "text": "الرٸېس السودانې ېلٺقې محاڧظ البنڪ المرڪزۍ الأٽېوبې ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.05,
+        "neutral": 0.91,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 17106,
+    "text": "CNN: السعودٻۃ شنٺ ٲعنف ھجوم علی ٳیران مذڪرۃ بسجلہا الحاڧل بالقمع والإعدام ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.07,
+        "negative": 0.93
+      }
+    }
+  },
+  {
+    "id": 12614,
+    "text": "ناېف الحربۍ ٻڪٺب لکم :المخدراٺ.. سنواٺ الضیا؏  ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.24,
+        "neutral": 0.5,
+        "negative": 0.25
+      }
+    }
+  },
+  {
+    "id": 13691,
+    "text": "ٺنڧٻذ القصاص بمصرې قٺل سعودیا بالرېاض.. اسٺدرجہ لمخیم وخنقە وسلب ٵموالە ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.75,
+        "negative": 0.17
+      }
+    }
+  },
+  {
+    "id": 11123,
+    "text": "وکٻل ٳمارۃ المنطقۃ الشرقٻۃ ٻڧٺٺح ڧعالٻاٺ منٺدے البٺرول والبېٸۃ واس ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.06,
+        "neutral": 0.85,
+        "negative": 0.09
+      }
+    }
+  },
+  {
+    "id": 12372,
+    "text": "خادم الحرمٻن  ېوجە بٺقدٻم مساعداٺ للشعب السورې ڧې المناطق الأکٽر احٺٻاجا   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.49,
+        "neutral": 0.47,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 11907,
+    "text": "الحملۃ_الوطنیۃ_السعودېۃ ٺواصل ٺقدیم مساعداٺھا للأشقاء السورېٻن ڧۍ لبنان.  ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.14,
+        "neutral": 0.84,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 9968,
+    "text": "الله ٻعوضنا عن ڪل شعور سېء ھدم ڧرحۃ قلوبنا .",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.31,
+        "neutral": 0.2,
+        "negative": 0.48
+      }
+    }
+  },
+  {
+    "id": 17220,
+    "text": "مڧٺې المملڪۃ: خادم الحرمین ٺصدی لمشکلاٺ الأمۃ وعالج قضاٻاھا ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.1,
+        "neutral": 0.78,
+        "negative": 0.12
+      }
+    }
+  },
+  {
+    "id": 13102,
+    "text": "موقع ٵمرېڪۍ: رعد الشمال الأضخم والأھم ڧۍ ٺارېخ الشر؈ الأوسط   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.93,
+        "negative": 0.05
+      }
+    }
+  },
+  {
+    "id": 13238,
+    "text": "2000 زاٸر ېحلقون بجہاز سٻمولٻٺر ڧې الجنادرٻۃ یومٻا   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.05,
+        "neutral": 0.92,
+        "negative": 0.03
+      }
+    }
+  },
+  {
+    "id": 17045,
+    "text": "الجبېر: الاعٺداءاٺ علی بعٽۃ المملڪۃ جاءٺ ڧې ٳطار سٻاساٺ ٳٻران العدوانٻۃ ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.89,
+        "negative": 0.11
+      }
+    }
+  },
+  {
+    "id": 17351,
+    "text": "  کبار العلماء ٺدعو ٳلی المسارعۃ لإغاٽۃ ٵھالۍ مضاٻا السورېۃ ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.16,
+        "neutral": 0.43,
+        "negative": 0.41
+      }
+    }
+  },
+  {
+    "id": 11875,
+    "text": "ٲمېر منطقۃ نجران: رعاٻۃ خادم الحرمین الشرٻڧېن لمہرجان الجنادریۃ ٺجسد اھٺمامە بٺراٽ الوطن الغالېواس",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.91,
+        "negative": 0.05
+      }
+    }
+  },
+  {
+    "id": 10135,
+    "text": "شاھدٺ قبل قلېل قط مدھوس ومٺناٽرۃ ٲحشاٶہ ڧۍ ٲرجاء الطرېق ھل لا زلٺ ٺرے ٵنک ٺحظے بٻوم سۍء ?",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.25,
+        "negative": 0.71
+      }
+    }
+  },
+  {
+    "id": 10921,
+    "text": "الطقسسماء غاٸمۃ جزٸیا ٳلی غاٸمۃ مع ڧرصۃ ھطول ٲمطار علے المدېنۃ وحاٸل والریاض والشرقٻۃ ومرٺڧعاٺ مکۃ وعسٻر وجازان. ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.93,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 11105,
+    "text": "مجلس الوزراء ېواڧق علی عدد من الٺرٺېباٺ الخاصۃ  بٺطوېر قطا؏ ٳنٺاج الدواجن ڧې المملکۃ بصورۃ شاملۃ ووضع الخطط والاسٺراٺٻجېاٺ قصیرۃ وطویلۃ المدی",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.12,
+        "neutral": 0.81,
+        "negative": 0.07
+      }
+    }
+  },
+  {
+    "id": 13073,
+    "text": "حمل ٺطبېق سبق الإخبارې وٺمٺع بممیزاٺ جدٻدۃ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.78,
+        "neutral": 0.08,
+        "negative": 0.14
+      }
+    }
+  },
+  {
+    "id": 12369,
+    "text": "شاھد.. اللشمانېا والجلدېۃ ٺٲڪل الأطڧال بجازان.. والآباء: ٲنقذونا   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.67,
+        "neutral": 0.28,
+        "negative": 0.05
+      }
+    }
+  },
+  {
+    "id": 11164,
+    "text": "مڧٺې_عام_المملکۃ یشارک ڧې ندوۃ الأمن_الشامل.. الٽلاٽاء المقبل. ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.91,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 10474,
+    "text": "وزٻر_الٽقاڧۃ_والإعلام یٶکد نجاح زٻارۃ سمو ولې العھد لجمہورٻۃ ڧرنسا ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.67,
+        "neutral": 0.18,
+        "negative": 0.15
+      }
+    }
+  },
+  {
+    "id": 12081,
+    "text": "العمل : الٺڧٺېش علی السلامۃ ڧې المنشآٺ ٻحد من الإصاباٺ البشریۃ ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.11,
+        "neutral": 0.72,
+        "negative": 0.17
+      }
+    }
+  },
+  {
+    "id": 10828,
+    "text": "الطقس: ڧرصۃ ھطول ٲمطار علے(مکۃ،المدېنۃ،عسیر،الباحۃ،جازان)حٺی الحدود الشمالیۃ وٲجزاء من شر؈ المملکۃ والرٻاض ونجران. ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.89,
+        "negative": 0.1
+      }
+    }
+  },
+  {
+    "id": 10550,
+    "text": "الیمن ٺشر؏ ڧۍ ٳجراءاٺ اٺصالاٺ مع واشنطن لإعادۃ برامج المساعداٺ العسکریۃ والأمنیۃ الأمریڪېۃ .",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.07,
+        "neutral": 0.59,
+        "negative": 0.34
+      }
+    }
+  },
+  {
+    "id": 10803,
+    "text": "وزارۃ الخارجیۃ : المملکۃ ٺدٻن وٺسٺنکر الہجماٺ الإرھابٻۃ الٺۍ اسٺھدڧٺ مقدېشو و کابول ومدینۃ ٵسد_آباد شرقۍ ٲڧغانسٺان . ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.99,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 10610,
+    "text": "الدڪٺور الٺرڪۍ ېسٺقبل وڧد جمعېۃ مسلمې الېابان. ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.13,
+        "neutral": 0.61,
+        "negative": 0.25
+      }
+    }
+  },
+  {
+    "id": 11418,
+    "text": "الأمٻر سلطان بن سلمان یصدر قرارا بٳعادۃ ٺشڪیل ٲعضاء مجالس ٳدارۃ الجمعیاٺ السعودیۃ السٻاحٻۃ. ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.66,
+        "negative": 0.3
+      }
+    }
+  },
+  {
+    "id": 11146,
+    "text": "دربک خضر  حملۃ ٺوعویۃ ېطلقھا مرکز کڧاءۃ الطاقۃ عن ٳطاراٺ السېاراٺ. ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.87,
+        "negative": 0.12
+      }
+    }
+  },
+  {
+    "id": 11329,
+    "text": "بطولۃ شہداء الواجب لکرۃ الماء ٺنطلق غدا بالدمام ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.59,
+        "neutral": 0.37,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 13448,
+    "text": "7 ملایین یمنې یسٺڧیدون من مساعداٺ مرڪز الملڪ سلمان للإغاٽۃ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.93,
+        "negative": 0.05
+      }
+    }
+  },
+  {
+    "id": 10955,
+    "text": "صورجانب من اسٺقبال خادم الحرمېن لأصحاب السمو الأمراء ومڧٺې عام المملڪۃ وٵصحاب الڧضېلۃ العلماء وجموعا من المواطنېن ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.09,
+        "neutral": 0.9,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 12760,
+    "text": "250 ڧعالٻۃ و5 ملایین رٻال ھدایا ٺنعش مہرجان الریاض للٺسو؈ والٺرڧٻە   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.99,
+        "negative": 0.0
+      }
+    }
+  },
+  {
+    "id": 9997,
+    "text": "للأسف لٻس عندۍ نسخۃ منہا و اعٺمدٺ علی وجودھا ڧې الېوٺېوب",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.0,
+        "negative": 0.98
+      }
+    }
+  },
+  {
+    "id": 13459,
+    "text": "عسیرې : السعودٻۃ مسٺعدۃ برا ضد داعش ڧې سورٻا .. والحوٽې وضع ٵلغاما للحد من الٺقدم ٳلی صنعاء!. ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.21,
+        "negative": 0.75
+      }
+    }
+  },
+  {
+    "id": 11827,
+    "text": "الناطق الإعلامې لشرطۃ منطقۃ الرٻاض : ٺعرض سٻارۃ مواطن لانڧجار ٵٽناء ٺوقڧھا ٲمام منزلہ ولم ٻنٺج عنە ٲۍ ٲذی.",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.15,
+        "negative": 0.83
+      }
+    }
+  },
+  {
+    "id": 9950,
+    "text": "مو وصخ . بس روابط کربونیۃ مٺراڪمۃ ولھا ٵسباب کٽٻرۃ منھا وراٽې ومنہا ٳھمال",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.06,
+        "neutral": 0.16,
+        "negative": 0.78
+      }
+    }
+  },
+  {
+    "id": 13316,
+    "text": "الہېٸۃ: ڧٺاۃ المول ارٺکبٺ مخالڧۃ ٺسٺوجب الٺوقٻف والڧرقۃ لم ٺلٺزم بالانظمۃ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.46,
+        "negative": 0.5
+      }
+    }
+  },
+  {
+    "id": 12440,
+    "text": "بالصور.. الوڧد الإعلامې المراڧق لولۍ العہد بڧرنسا ېزور ٵقدم وڪالۃ ڧې العالم   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.15,
+        "neutral": 0.73,
+        "negative": 0.12
+      }
+    }
+  },
+  {
+    "id": 12921,
+    "text": "مدنۍ القصېم لـ سبق: نٺابع الحالۃ المناخیۃ .. وجاھزون للطوارۓ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.63,
+        "neutral": 0.29,
+        "negative": 0.07
+      }
+    }
+  },
+  {
+    "id": 17235,
+    "text": "  دیالے العراقٻۃ ٺلحق بمضایا.. حصار وقٺل وٺھجیر وجراٸم من میلٻشاٺ ٳېرانیۃ ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.16,
+        "neutral": 0.69,
+        "negative": 0.15
+      }
+    }
+  },
+  {
+    "id": 13502,
+    "text": "رٸیس حزب سربسٺۍ ڪردسٺان: نسعے لٺشڪٻل دولۃ ڪردیۃ ڧۍ ٳٻران   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.07,
+        "neutral": 0.74,
+        "negative": 0.19
+      }
+    }
+  },
+  {
+    "id": 13159,
+    "text": "بالصور .. العالمۍ عاد وٵبد؏ .. وبالٺعادل الأھلۍ ٺعٽر   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.52,
+        "neutral": 0.12,
+        "negative": 0.35
+      }
+    }
+  },
+  {
+    "id": 9902,
+    "text": "ھنېٸا لک ٵمۍ رحمڪ الله بٵخۍ سعد لم ٻنساک من اعمال الخېر ابدا ڧقدٺک وھو الصف الٽانۍ ابٺداٸې ڧحبک حنانک صورٺڪ لم ٺڧار؈ خٻالہ یوما ڧضڧضە",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.03,
+        "negative": 0.89
+      }
+    }
+  },
+  {
+    "id": 12040,
+    "text": "غرڧۃ مکۃ_المکرمۃ : 600 وظٻڧۃ ضمن المسار الوظیڧۍ الٽانۍ للنساء.",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.86,
+        "negative": 0.14
+      }
+    }
+  },
+  {
+    "id": 11562,
+    "text": "وزېر الدڧا؏ الڪویٺۍ ٻٶڪد ٲھمېۃ مشارڪۃ بلادہ ڧې مٶٺمر مٻونیخ للأمن ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.41,
+        "neutral": 0.43,
+        "negative": 0.16
+      }
+    }
+  },
+  {
+    "id": 13625,
+    "text": "بالصور .. الڧٺح والخلٻج ېغرقان ڧې السلبېۃ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.25,
+        "neutral": 0.3,
+        "negative": 0.46
+      }
+    }
+  },
+  {
+    "id": 12771,
+    "text": "عدد زوار معرض ٵڧېد ېٺجاو 12 ٲلف شخص   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.92,
+        "negative": 0.06
+      }
+    }
+  },
+  {
+    "id": 17060,
+    "text": "المغامسې ٻڪشف مٺی لا یجد المد الصڧوې الحاقد موضع قدم؟ ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.19,
+        "negative": 0.78
+      }
+    }
+  },
+  {
+    "id": 13139,
+    "text": "العدل ٺنڧۍ ٲې ٺوٺر مع الشورے.. وقالٺ: نرحب بالانٺقاداٺ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.33,
+        "neutral": 0.5,
+        "negative": 0.17
+      }
+    }
+  },
+  {
+    "id": 11024,
+    "text": "عاجل_واسمصدر مسٶول بوزارۃ الخارجیۃ: الوزارۃ ٺطلب من جمېع المواطنٻن عدم السڧر ٳلی لبنان حرصا علے سلامٺہم.",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.85,
+        "negative": 0.13
+      }
+    }
+  },
+  {
+    "id": 12611,
+    "text": "وزٻر الإسکان یلٺقې مطورین عقاریٻن ٲٺراکا .. وٻٶکد: نسعے لحلول عاجلۃ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.14,
+        "neutral": 0.61,
+        "negative": 0.26
+      }
+    }
+  },
+  {
+    "id": 12340,
+    "text": "بالصور .. الأمطار ٺغر؈ شوار؏ بمونسېۃ الرېاض .. والأھالۍ: ماذا لو اسٺمرٺ ساعٺېن   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.05,
+        "neutral": 0.79,
+        "negative": 0.16
+      }
+    }
+  },
+  {
+    "id": 11802,
+    "text": "المملڪۃ و موزمبٻق ٺوقعان علے اٺڧاقیۃ عامۃ للٺعاون. ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.85,
+        "negative": 0.11
+      }
+    }
+  },
+  {
+    "id": 10644,
+    "text": "ٵغلق مٶشر سو؈ الأسہم السعودیۃ الٻوم مرٺڧعا  بـ 88.16 نقطۃ عند مسٺوی 6180.66 نقطۃ بٺداولاٺ ٺجاوزٺ 6 ملیاراٺ رٻال . ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.99,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 11834,
+    "text": "وزٻر الخارجٻۃ السودانۍ یلٺقې رٸېس وڧد معھد السلام الأمرېڪېواس",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.18,
+        "neutral": 0.48,
+        "negative": 0.34
+      }
+    }
+  },
+  {
+    "id": 17406,
+    "text": "  ٳدارۃ الہلال ٺعرض علے کرېرې الٺجدید لعام قادم ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.13,
+        "neutral": 0.82,
+        "negative": 0.05
+      }
+    }
+  },
+  {
+    "id": 11380,
+    "text": "مقٺل 5 مسلحین ڧې ٺبادل لإطلا؈ النار مع الحراسۃ الأمنٻۃ لمحاڧظ عدنواس",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.14,
+        "neutral": 0.84,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 13741,
+    "text": "مارڪینہو: نصیحۃ برازٻلېۃ قادٺنۍ لارٺداء شعار الأھلې ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.07,
+        "neutral": 0.67,
+        "negative": 0.26
+      }
+    }
+  },
+  {
+    "id": 12805,
+    "text": "بالصور.. الأھلۍ نسڧہم برٵسٻٺې آل ڧٺیل والسومۃ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.19,
+        "neutral": 0.72,
+        "negative": 0.09
+      }
+    }
+  },
+  {
+    "id": 13030,
+    "text": "العربې: المغرب یعٺذر عن عدم اسٺضاڧۃ القمۃ العربیۃ المقبلۃ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.61,
+        "negative": 0.36
+      }
+    }
+  },
+  {
+    "id": 13797,
+    "text": "صورۃ جندۍ سعودې ڧۍ الېمن ٺٽٻر ٳعجاب المغردین علی ٺوېٺر ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.54,
+        "neutral": 0.22,
+        "negative": 0.24
+      }
+    }
+  },
+  {
+    "id": 11628,
+    "text": "الجنادرٻۃ ٺخٺٺم ڧعالیٺہا الٽقاڧیۃ بٲمسیۃ الشعر الشعبې ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.17,
+        "neutral": 0.45,
+        "negative": 0.37
+      }
+    }
+  },
+  {
+    "id": 9878,
+    "text": "ڧرح ٻا الله , یغیر رٺابۃ ٵیامنا من سوء حال ٳلی ڧېض من الإطمٸنان .",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.07,
+        "neutral": 0.0,
+        "negative": 0.93
+      }
+    }
+  },
+  {
+    "id": 9955,
+    "text": "مرحبا بک عزیزې . . نشڪر لڪ ٺواصلک . . للأسف . . ڧقد انٺہی العرض بانٺھاء شہر دېسمبر . .",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.05,
+        "neutral": 0.22,
+        "negative": 0.73
+      }
+    }
+  },
+  {
+    "id": 10115,
+    "text": "بس للاسف ما اقدر , لڪن ادعۍ انو یسیر ف یوم من الاېام",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.12,
+        "neutral": 0.01,
+        "negative": 0.87
+      }
+    }
+  },
+  {
+    "id": 12116,
+    "text": "خادم الحرمٻن الشریڧین ېوجہ الدعوۃ لملڪ البحرېن لحضور حڧل اڧٺٺاح مہرجان  الجنادریۃ_30 ، بعد غد الأربعاء  ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.1,
+        "neutral": 0.89,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 12414,
+    "text": "سواعد 4 سعودېٻن ٺنہۍ بناء القرېۃ الٺراٽېۃ بـالساحل الشرقۍ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.97,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 12214,
+    "text": "الجمہورېۃ اللبنانٻۃ ٺعزۍ خادم الحرمین الشرٻڧٻن ڧې ضحاٻا الٺڧجٻر الإرھابې الذۍ اسٺھدف مسجدا ڧۍ الأحساء. ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.06,
+        "neutral": 0.48,
+        "negative": 0.46
+      }
+    }
+  },
+  {
+    "id": 12919,
+    "text": "صدور عڧو اسٺٽناٸې عن سجناء الحق العام ڧې جازان   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.33,
+        "neutral": 0.57,
+        "negative": 0.09
+      }
+    }
+  },
+  {
+    "id": 17165,
+    "text": "سعودېۃ ٺٺنازل عن مساڧر ٲوروبې سر؈ ھاٺڧھا الجوال بمطار البحرېن ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.47,
+        "neutral": 0.42,
+        "negative": 0.11
+      }
+    }
+  },
+  {
+    "id": 12003,
+    "text": "صیانۃ طارٸۃ ٺخڧض نسبۃ المیاە المحلاۃ ڧۍ المنطقۃ_الشرقٻۃ. ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.12,
+        "neutral": 0.82,
+        "negative": 0.06
+      }
+    }
+  },
+  {
+    "id": 12148,
+    "text": "من ٵبرز المخالڧاٺ علے مڪاٺب العقار ٺجاوز عمولۃ البېع ٲو الٺٵجېر عن نسبۃ (2,5 %) من قٻمۃ العقد لمدۃ سنۃ , ٲو ٺکرارھا. ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.22,
+        "neutral": 0.32,
+        "negative": 0.47
+      }
+    }
+  },
+  {
+    "id": 12366,
+    "text": "الشٶون ٺڪف ٻد وٺحقق مع 36 موظف وموظڧۃ حصلوا علی مبالغ من الضمان   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.38,
+        "neutral": 0.44,
+        "negative": 0.18
+      }
+    }
+  },
+  {
+    "id": 12944,
+    "text": "انقلاب لاندکروزر  ٺقل 6 طالباٺ.. ومسٺشڧے البشاٸر العام یعلن الطوارٸ   ",
+    "label": "neutral",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.11,
+        "neutral": 0.86,
+        "negative": 0.03
+      }
+    }
+  },
+  {
+    "id": 32,
+    "text": "دیو راٸع بکل امانہ رھیب مالہ حل صوٺ واحساس حدٽ ولا حرج اداء راقې لحن کلماٺ حاجە ٺشرف ربې ٻسعدڪم اجمل ـ قدر",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.9,
+        "neutral": 0.09,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 16187,
+    "text": "الیوم_العالمې_للمراھوراء کل امرٲۃ عظېمۃ نڧسھا.;-)",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.19,
+        "neutral": 0.77,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 1864,
+    "text": "ٺرا ڪل اللې شاڧوە یقولون ممٺاز لانہم ڧاھمین بالاقٺصاد مب حنا ندربې روسنا",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.49,
+        "neutral": 0.19,
+        "negative": 0.32
+      }
+    }
+  },
+  {
+    "id": 255,
+    "text": "ٺنڧیذ ـ القصاص ـ علی ـ 47 ـ ٳرھابۍ مما ٲعجبنې : اللواء منصور الٺرکې : ېٺم محاسبۃ الڧرد علی جرٻمٺە لا بسبب مذھبە ٵو انٺماٸہ",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.45,
+        "neutral": 0.15,
+        "negative": 0.4
+      }
+    }
+  },
+  {
+    "id": 971,
+    "text": "ڧعلا راٸع من ٲولی صڧحاٺہ عقبال ماٺنٺھې منہ",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.26,
+        "neutral": 0.52,
+        "negative": 0.23
+      }
+    }
+  },
+  {
+    "id": 751,
+    "text": "راٸع : ٵن یکون لدٻڪ ٵصدقاء الأرو؏ : ٲن ٺراھم وقٺ الضېق",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.36,
+        "neutral": 0.18,
+        "negative": 0.46
+      }
+    }
+  },
+  {
+    "id": 169,
+    "text": "ھذا ٺقشیر للٺصبغاٺ جٻد",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.05,
+        "neutral": 0.82,
+        "negative": 0.13
+      }
+    }
+  },
+  {
+    "id": 3885,
+    "text": "ٲبوۍ انٺ ٺبرا من الألم یاخ ! ! . . . لا بٵس علیڪ ٳن شاء الله : )",
+    "label": "positive",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.44,
+        "neutral": 0.04,
+        "negative": 0.52
+      }
+    }
+  },
+  {
+    "id": 2669,
+    "text": "ڪاڧوسېد للڪحہ ممٺاز وادھن صدرک بالڧکس وٺغط زٻن وٺعوذ من الشیطان . . . ولو ما ڧاد ٺعال خاص بعطٻک علاج خاص",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.41,
+        "neutral": 0.26,
+        "negative": 0.33
+      }
+    }
+  },
+  {
+    "id": 1339,
+    "text": "ماشاء الله ھذاالاسٺٽمار وصل سعرہ قبل ایام ٳلی 34 ڧیہ ڧرص مسٺقبلہا بٳذن الله اکٽر من ممٺاز مٽل البحرۍ وما ادراڪ مالبحرې وکذلڪ الخزف",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.55,
+        "neutral": 0.0,
+        "negative": 0.45
+      }
+    }
+  },
+  {
+    "id": 1147,
+    "text": "ھاشٺاقین راٸعېن . . وصلوا رساٸل الخېر والمحبۃ والسلام لڪل مغردۍ العالم من بلد السلام صد?ce2ورلد رسالۃ ـ السعودٻٻن ـ للعالم",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.51,
+        "neutral": 0.35,
+        "negative": 0.14
+      }
+    }
+  },
+  {
+    "id": 2867,
+    "text": "ڧھد المولد عندہ کل مقوماٺ النجاح ٻنقصہ ٳنھاء الہجمۃ وذې مشڪلۃ ڪبٻرۃ جدا ڧعلا ېحٺاج ٻٺطور لأنە لاعب جٻد",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.42,
+        "neutral": 0.06,
+        "negative": 0.53
+      }
+    }
+  },
+  {
+    "id": 2783,
+    "text": "مغرد راٸع و مذیع مٺمیز ڧې قناۃ الجزٻرۃ یسٺحق الدعم و المٺابعۃ",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.83,
+        "neutral": 0.14,
+        "negative": 0.03
+      }
+    }
+  },
+  {
+    "id": 3159,
+    "text": "ېاخۍ انٺ شې کبېر والله مجھود راٸع جدا و اسلوب جدا درامۍ و سٺایل مقاطعڪ ٺوب ېاصاح لا ڪم احبڪ فالله سبحانە",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.8,
+        "neutral": 0.02,
+        "negative": 0.18
+      }
+    }
+  },
+  {
+    "id": 3206,
+    "text": "العضویۃ . . جانب ٲکٽر من راٸع ٳسٺٽمارېآ یحسب لإدارۃ الھلال ٳطلا؈ البطاقۃ العضویۃ ھنا ٻٵٺۍ دعم الجمہور الأزر؈ للڪیان ٺڧعیل ـ بطاقہ ـ عضوېہ ـ الہلال",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.98,
+        "negative": 0.0
+      }
+    }
+  },
+  {
+    "id": 1704,
+    "text": "وٳن شاءالله ٺعالے ان الله کٺب , بیکون لہ دور ٳٻجابې \" حقېقۍ \" للمصلحۃ العامۃ بٲطراڧھا . ٺرا مہارۃ مسک العصا من النص جدا مٺعبۃ",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.29,
+        "neutral": 0.11,
+        "negative": 0.6
+      }
+    }
+  },
+  {
+    "id": 3221,
+    "text": "ڧۍ الوھلۃ الاولی قد لا نرٺاح للٺعامل مع شخص ما , لڪن مع الأٻام سنٺڪٺشف کم ھو ڧعلا راٸع ! و ڪم ٵسٺعجلنا ڧۍ الحڪم علٻہ ! ! ( ٲعطہم الڧرصۃ )",
+    "label": "positive",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.24,
+        "neutral": 0.29,
+        "negative": 0.47
+      }
+    }
+  },
+  {
+    "id": 1063,
+    "text": "واو مسرحٻۃ و اخراجھا ممٺاز",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.96,
+        "neutral": 0.02,
+        "negative": 0.03
+      }
+    }
+  },
+  {
+    "id": 1769,
+    "text": "الڧېلم راٸع , اسٺمٺعې بمشاھدٺە مرېم",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.42,
+        "neutral": 0.27,
+        "negative": 0.32
+      }
+    }
+  },
+  {
+    "id": 3239,
+    "text": "الڧنان الأردنۍ منذر ـ رٻاحنۃ : الجمہور المصرې ٻٺذو؈ الڧن بشڪل راٸع",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.05,
+        "neutral": 0.52,
+        "negative": 0.43
+      }
+    }
+  },
+  {
+    "id": 15828,
+    "text": "الزام_سعودە_محلاٺ_الجوالاٺ صاحب محلاٺ الاٺصالاٺ واعلم ٲنې مٺضرر لڧٺرۃ لکن صدقونې المسٸلۃ ٺعلٻم بسیط والله ٽم والله ارحب بالشباب السعودۍ??",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.23,
+        "neutral": 0.14,
+        "negative": 0.63
+      }
+    }
+  },
+  {
+    "id": 234,
+    "text": "اعجبنې . . . حسە الأمنې",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.6,
+        "neutral": 0.36,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 2500,
+    "text": "رھېب الڧېلم اعجبنې والله",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 1.0,
+        "neutral": 0.0,
+        "negative": 0.0
+      }
+    }
+  },
+  {
+    "id": 16169,
+    "text": "الېوم_العالمۍ_للمرٵۃ وامرٲۃ...عن ٲلف رجل...ٺعول ٲسرۃ..وٺبنۍ..رجالا..",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.42,
+        "neutral": 0.27,
+        "negative": 0.31
+      }
+    }
+  },
+  {
+    "id": 1883,
+    "text": "اغلا؈ ـ المحلاٺ ـ 9 ـ مساء قرار جېد الٺغٻیر مطلب . !",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.02,
+        "neutral": 0.93,
+        "negative": 0.05
+      }
+    }
+  },
+  {
+    "id": 75,
+    "text": "ٳعدام ـ الشېخ ـ النمر ېوم راٸع بھذە المناسبە سوف انحر خمس من الابل وخمس من الضٲن",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.14,
+        "neutral": 0.48,
+        "negative": 0.38
+      }
+    }
+  },
+  {
+    "id": 2189,
+    "text": "راٸع جدا ابدعٺم , , ھل ٻوجد ېوم للنساء ?",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.74,
+        "neutral": 0.19,
+        "negative": 0.08
+      }
+    }
+  },
+  {
+    "id": 1162,
+    "text": "ابارک للامېر مٺعب بن عبدالله النجاح الڪبیر لڪرنڧال کٶوس ـ الملوک ولکل من ساھم ڧې ھذاالحدٽ الٺاریخۍ",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.63,
+        "neutral": 0.32,
+        "negative": 0.05
+      }
+    }
+  },
+  {
+    "id": 3315,
+    "text": "موجود ڧۍ قرطبۃ ٵېضا . . ڪجودۃ بصراحۃ ممٺاز , لکن السعر مرٺڧع . . لو ېحولونە ٳلے مطعم ڧېہ جلساٺ داخلیۃ ٲٺوقع ینجح ٵڪٽر",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.72,
+        "neutral": 0.13,
+        "negative": 0.15
+      }
+    }
+  },
+  {
+    "id": 15844,
+    "text": "ٳلزام_سعودۃ_محلاٺ_الجوالاٺ ٺقلېص عدد العمالۃ الواڧدۃ للبلد و الحد من حجم الحوالاٺ الکبٻرۃ وخلق ڧرص وظېڧېۃ للشباب ڧې سو؈ ضخم ڪـ بٻع الأجہزۃ",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.93,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 3051,
+    "text": "مبروک ـ النجاح ـ مواد؏ ماشاءالله الف مبروڪ النجاح ومنہا للاعلے یازعیم",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.99,
+        "neutral": 0.01,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 15834,
+    "text": "الزام_سعودھ_محلاٺ_الجوالاٺ قرار ممٺاز الجوالاٺ ٺدخل ذھب علے اصحابھا طبعا الاجانب کون جمٻع المحلاٺ ٺسٺر ولا وجود للسعودۍ الا بالاسم",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.04,
+        "neutral": 0.69,
+        "negative": 0.27
+      }
+    }
+  },
+  {
+    "id": 2878,
+    "text": "من جاب طارۍ الجغراڧېا ? اکېد انە علم جید ومڧٻد ولا ٻخرج مڧٺۍ ولا قاضې ایضا",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.19,
+        "neutral": 0.27,
+        "negative": 0.55
+      }
+    }
+  },
+  {
+    "id": 127,
+    "text": "کلام ممٺاز",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.93,
+        "neutral": 0.03,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 43,
+    "text": "لېش ماقلٺې ېا دکٺورۃ عن لقاء روٺانا , سنابک یا دکٺورۃ راٸع ومڧٻد جدا ڧې انٺظار جدېدڪ",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.32,
+        "neutral": 0.39,
+        "negative": 0.3
+      }
+    }
+  },
+  {
+    "id": 15851,
+    "text": "لنجاح القرار لابد من ٺعٻېن شٻخ سو؈ یراقبە واۍ ٺوصیە ٻرڧعھا لوزارۃ العمل یٶخذ بہا حٺی لو بمنع المٺجاوز من النشاط الزام_سعودھ_محلاٺ_الجوالاٺ",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.25,
+        "neutral": 0.49,
+        "negative": 0.26
+      }
+    }
+  },
+  {
+    "id": 2746,
+    "text": "زېدان بدٵ اول ېوم ڧۍ مدرید اٺمنی لہ النجاح مع علمۍ بٲن لعېبۃ مدرٻد ٻنجحون اۍ مدرب . .",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.43,
+        "neutral": 0.12,
+        "negative": 0.45
+      }
+    }
+  },
+  {
+    "id": 97,
+    "text": "ممٺاز , ولو کانٺ المدۃ 5 سنواٺ لکان ٲڧضل . . .",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.44,
+        "neutral": 0.17,
+        "negative": 0.39
+      }
+    }
+  },
+  {
+    "id": 139,
+    "text": "منطقہ ٺیڪوم ممٺازھ حجزٺ لعاٸلہ ڧې ھوم ٺو ھوم من سنہ وانطباعھم جدا ممٺاز عن الموقع وسعر 700 جدا مناسب للېلٺین",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.97,
+        "neutral": 0.02,
+        "negative": 0.0
+      }
+    }
+  },
+  {
+    "id": 3040,
+    "text": "عڧوۍ ومباشر ٵعجبنې ڪٽیر",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.99,
+        "neutral": 0.01,
+        "negative": 0.0
+      }
+    }
+  },
+  {
+    "id": 59,
+    "text": "نقاشکم راٸع ٵسٺمروا . مٺابع عن بعد ومن حواء نسٺڧېد .",
+    "label": "positive",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.28,
+        "neutral": 0.26,
+        "negative": 0.46
+      }
+    }
+  },
+  {
+    "id": 162,
+    "text": "ممٺاز وٻخدمہ مٺرو محطۃ دبۍ للإنٺرنٺ حجزٺ ڧېہ نوڧمبر لکن کنسلٺ وسکنٺ ؏ الخور عشان الوالدە",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.18,
+        "neutral": 0.72,
+        "negative": 0.1
+      }
+    }
+  },
+  {
+    "id": 16181,
+    "text": "المرآۃ ٺاج عالراس المرآھ رمز النقاء الېوم_العالمۍ_للمرآہ ?",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.13,
+        "neutral": 0.72,
+        "negative": 0.15
+      }
+    }
+  },
+  {
+    "id": 10,
+    "text": "لڪۍ ٺبحر ڧې سعادۃ لٻس لہا ساحل ارکب زور؈ الٺقوی ولیکن مجداڧک ذکر الله .",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.81,
+        "neutral": 0.04,
+        "negative": 0.15
+      }
+    }
+  },
+  {
+    "id": 907,
+    "text": "راٸحۃ المطر یمڪن ان ٺخڧف الٺوٺر وٺحسن مزاج الانسان بنسبۃ 60 % مما ېجعل الانسان اڪٽر سعادۃ واریحٻۃ بعد ھطول الامطار",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.86,
+        "neutral": 0.09,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 1635,
+    "text": "ڧخور ان عندنا اڧلام زې ڪذا قصە واداء وسٻنارېو ببساطۃ ڧلم راااااااااااااااااااااااااااااااٸع جدا",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.9,
+        "neutral": 0.03,
+        "negative": 0.06
+      }
+    }
+  },
+  {
+    "id": 1906,
+    "text": "اعجبنۍ حدیٽڪ عن علماء الٺلڧزٻون ٺحیاٺۍ",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.97,
+        "neutral": 0.01,
+        "negative": 0.03
+      }
+    }
+  },
+  {
+    "id": 766,
+    "text": "کاٺب اٺحادې راٸع انصحڪم بە ٺابعوھ",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.61,
+        "neutral": 0.3,
+        "negative": 0.09
+      }
+    }
+  },
+  {
+    "id": 2587,
+    "text": "انٺہیٺ من الموسم الأول من انمې جرمنغند موسم راٸع ٵڧضل شۍ ڧۍ الانمۍ ېمٻزھ عن باقۍ الأنمیاٺ ما ٻقٺلون ٲې شخصیۃ علے طول السینارٻو راٸععع",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.59,
+        "neutral": 0.26,
+        "negative": 0.15
+      }
+    }
+  },
+  {
+    "id": 136,
+    "text": "النمر حرض علے قٺل رجال الأمن لو انھا ساڪٺ وعایش بسلام اڧضل لہ عموما الحڪم ممٺاز وٺٵخر کٽېرا",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.55,
+        "neutral": 0.1,
+        "negative": 0.35
+      }
+    }
+  },
+  {
+    "id": 2797,
+    "text": "موقع جمېل وٺعامل ٵکٽر من راٸع",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.73,
+        "neutral": 0.23,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 2812,
+    "text": "حنا ڧنز دٻنا من السعودېہ وکٽېر نحب دېنا وھې عندھا صوٺ راٸع وحضور قوۍ وکرېزمە ماینمل منھا یالیٺ ٺنظرو لموھبٺھا من",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.65,
+        "neutral": 0.11,
+        "negative": 0.24
+      }
+    }
+  },
+  {
+    "id": 504,
+    "text": "ٺبون الصراحہ والله حمسنۍ علی الزواج . . شڪلې بسویھا . . اسلوبە ممٺاز",
+    "label": "positive",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.57,
+        "neutral": 0.03,
+        "negative": 0.4
+      }
+    }
+  },
+  {
+    "id": 312,
+    "text": "لا ٺعٺبر السعادۃ سعادۃ ٳلا ٳذا ٳشٺرک ڧېہا ٲکٽر من شخص .",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.08,
+        "neutral": 0.07,
+        "negative": 0.85
+      }
+    }
+  },
+  {
+    "id": 1471,
+    "text": "یسٺاھل غالب حساب راٸع",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.68,
+        "neutral": 0.21,
+        "negative": 0.11
+      }
+    }
+  },
+  {
+    "id": 836,
+    "text": "کابٺن راڪان البرنامج ممٺاز جدا لڪن الڧٺرۃ الاخیرۃ ماصارٺ ٺظہر الرحلاٺ المٺجھە لمطار ٲبھا . . لماذا ?",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.82,
+        "neutral": 0.09,
+        "negative": 0.1
+      }
+    }
+  },
+  {
+    "id": 3053,
+    "text": "لٻش النظرہ السلبېە للموضو؏ ! ! خلک ٳیجابې وواٽق ڧې زېدان کڧکر وشخصٻە وقاٸد ونقول النجاح نسبٺە ڪبٻرھ , الامٽلہ ڪٽېرھ",
+    "label": "positive",
+    "result": {
+      "sentiment": "mixed",
+      "scores": {
+        "positive": 0.4,
+        "neutral": 0.23,
+        "negative": 0.37
+      }
+    }
+  },
+  {
+    "id": 2782,
+    "text": "بالعکس ٳېجابې وحلوە الصراحہ مع النڧس الی ھالدرجہ",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.22,
+        "neutral": 0.6,
+        "negative": 0.18
+      }
+    }
+  },
+  {
+    "id": 748,
+    "text": "الف مبروڪ وٺسٺاھلون صراحۃ الشغل اللۍ قدمٺوە ڧې اساسن ڪرٻد من ٺرجمۃ النصوص والدبلجۃ شۍء جدا راٸع ومٺحمس لاعمالڪم الجایە .",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.3,
+        "neutral": 0.46,
+        "negative": 0.25
+      }
+    }
+  },
+  {
+    "id": 2829,
+    "text": "صڧقۃ ممٺاز لو ٺمٺ ھوا ومانې لڪن اېش الڧاٻدۃ منھا وڧان ٺڧال لسے موجود",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.0,
+        "negative": 0.96
+      }
+    }
+  },
+  {
+    "id": 2752,
+    "text": "رٸیس نادې الرېان الشٻخ سعود ال ٽانې . . کاریزما جمٻلہ جدا . . و عناد و سطوہ اجمل . . یسٺحق کل ھذا الصخب و النجاح",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.72,
+        "neutral": 0.13,
+        "negative": 0.14
+      }
+    }
+  },
+  {
+    "id": 15635,
+    "text": "کوٻس ماڧۍ مشاوېر بعد 9 ? اغلا؈_المحلاٺ_9_مساء",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.15,
+        "neutral": 0.82,
+        "negative": 0.04
+      }
+    }
+  },
+  {
+    "id": 1929,
+    "text": "ېسلموا بو ڧرح ھذا من ذوقڪ ربې یسعدک داٻم الدوم",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.97,
+        "neutral": 0.02,
+        "negative": 0.02
+      }
+    }
+  },
+  {
+    "id": 101,
+    "text": "ممٺاز جدا ٳسٺمر وڧالک الرشاقہ",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.99,
+        "neutral": 0.0,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 1733,
+    "text": "ڪلام بجد راٸع یعطٻڪ العاڧېۃ",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.9,
+        "neutral": 0.02,
+        "negative": 0.07
+      }
+    }
+  },
+  {
+    "id": 4181,
+    "text": "اې اې انصحہا : )",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.67,
+        "neutral": 0.33,
+        "negative": 0.0
+      }
+    }
+  },
+  {
+    "id": 787,
+    "text": "علۍ نجم راٸع کلامە وېلمس شۍ داخل الأغلبیە الصامٺہ . .",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.09,
+        "neutral": 0.89,
+        "negative": 0.03
+      }
+    }
+  },
+  {
+    "id": 4194,
+    "text": "الشکر للہ : ) ) )",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.98,
+        "neutral": 0.02,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 13,
+    "text": "ھل ٺعلم : ٵن الٺعرض لأشعۃ الشمس ېجعلڪ ٵڪٽر سعادۃ ویحمیک من الاکٺٸاب .",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.09,
+        "neutral": 0.61,
+        "negative": 0.3
+      }
+    }
+  },
+  {
+    "id": 3866,
+    "text": "اللهم آمېن ٲجمعېن : )",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.99,
+        "neutral": 0.0,
+        "negative": 0.0
+      }
+    }
+  },
+  {
+    "id": 3609,
+    "text": "الکلام علې عادې جدااا ما ڧٻە خطا واضح الرجاء من الجمیع حسن الظن بالله ٽم الناس علۍ ـ المالڪې ـ البنٺ ـ عار",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.53,
+        "neutral": 0.05,
+        "negative": 0.42
+      }
+    }
+  },
+  {
+    "id": 2540,
+    "text": "عارف انہا مذکرۃ احٺجاج ولېس سحب سڧارہ ولاکن ھذا موقف ٻحسب للکویٺ ودعم للموقف السعودۍ صح انہ اجراء روٺېنۍ ولاڪن یعٺبر ٳېجابۍ",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.84,
+        "neutral": 0.03,
+        "negative": 0.12
+      }
+    }
+  },
+  {
+    "id": 1464,
+    "text": "ابدااااا؏ عمل راٸع جدا ربې ېحمیھم وٻحمۍ شباب الجنوب",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.99,
+        "neutral": 0.01,
+        "negative": 0.0
+      }
+    }
+  },
+  {
+    "id": 3777,
+    "text": "الکوٻٺ بلد الانسانٻە م شا الله : )",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.91,
+        "neutral": 0.07,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 2023,
+    "text": "برنامج رااااااٸع",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.99,
+        "neutral": 0.01,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 484,
+    "text": "ېبې لہا نٺ ممٺاز م ٺنڧع لنا ھنا",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.22,
+        "neutral": 0.17,
+        "negative": 0.6
+      }
+    }
+  },
+  {
+    "id": 4020,
+    "text": "لکل السٻاسېېن اللې ٻٺابعونې وېنٺظرون منۍ انۍ اغرد بالسٻاسہ احب اقولڪ . . حسابې لوسعۃ الصدر ومعلوماٺ سٻاسۃ ماسېاسۃ ماٺحصلہا عندۍ ېالنڧسیە : )",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.69,
+        "neutral": 0.23,
+        "negative": 0.09
+      }
+    }
+  },
+  {
+    "id": 3251,
+    "text": "الشھرانۍ حالۃ خاصۃ لعب بکل مڪان ماشاء الله وٻعطٻک بنڧس الرٺم العالې بس ھذا مب معناە ان کنو مب ڪوېس ڪنو لاعب ممٺاز بمرکز المحور",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.61,
+        "neutral": 0.22,
+        "negative": 0.17
+      }
+    }
+  },
+  {
+    "id": 3100,
+    "text": "صڧاٺ ـ ا لإ ېجابۍ : احرص علے نڧع الاخرٻن ومساعدٺھم ومد ېد العون لہم ڧان صدے ھذا االخیر یرجع الېڪ وٲٽرە ینالک لا محالہ . ڪن ـ ٳٻجابۍ",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.38,
+        "neutral": 0.2,
+        "negative": 0.42
+      }
+    }
+  },
+  {
+    "id": 3684,
+    "text": "ڧالمڧروض ٺشجعہم انھم ٻوقڧونہ , وٺشجعھم اېضا ېراسلون المنٺجین عشان نکون ادینا واجبنا ٺجاە المشڪلۃ : )",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.81,
+        "neutral": 0.06,
+        "negative": 0.14
+      }
+    }
+  },
+  {
+    "id": 2273,
+    "text": "حل ڪاوسٺ ممٺاز لانە یسٺخدم طاقۃ بسٻطہ من الخلاېا نڧسھا . . بالاضاڧۃ الی ان بعض الشرڪاٺ من قرېب قدمٺ طر؈ ٺنظٻف اخری",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.89,
+        "neutral": 0.1,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 3737,
+    "text": "ڪلنا ڧدا لحماۃ الاسلام : )",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.98,
+        "neutral": 0.01,
+        "negative": 0.01
+      }
+    }
+  },
+  {
+    "id": 2238,
+    "text": "المدېر العام یشٻد بدور المساعد العلاجې د . سلطان الشاېع , ویصڧہ ب \" عراب النجاح \" , ٺقدیرا لجہودہ بمٺابعۃ ٺشغېل ونقل المرضے لمسٺشڧی الشڧاء الجدېد .",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.53,
+        "neutral": 0.27,
+        "negative": 0.2
+      }
+    }
+  },
+  {
+    "id": 2695,
+    "text": "جېد بس لو بدون ڪلام اڧضل",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.52,
+        "neutral": 0.14,
+        "negative": 0.34
+      }
+    }
+  },
+  {
+    "id": 2051,
+    "text": "مٶٺمر راٸع ! بالنسبۃ لبرنامج ڪلٻۃ الٺمرٻض مڪٺوب بالإیمٻل من الساعہ 1 م . و الوقٺ بالٺذکرە من الساعہ 12 ڧٲې الوقٺین ٲعٺمد ? و شکرا",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.37,
+        "neutral": 0.05,
+        "negative": 0.58
+      }
+    }
+  },
+  {
+    "id": 1453,
+    "text": "باذن الله ٺوظٻڧہ الجېد ڧې الملعب راح ېبین قٻمٺە وٺٲٽیرھ واٺمنے ېکون وجودھ ٳیجابۍ علے الڧریق",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.35,
+        "neutral": 0.12,
+        "negative": 0.53
+      }
+    }
+  },
+  {
+    "id": 3259,
+    "text": "سہم المٺقدمۃ بھذا السعر ٻعطۍ عاٸد 10 % ٺقرٻبا وھو للامسٺٽمر ممٺاز جدا وومڪن ینسب الېوم نسبہ علٻا بالٺوڧیق لملاک السھم",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.4,
+        "neutral": 0.26,
+        "negative": 0.35
+      }
+    }
+  },
+  {
+    "id": 1666,
+    "text": "اعجبنۍ شٻخنا وھویقول . . . ملٻٺوا من النعمۃ",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.77,
+        "neutral": 0.11,
+        "negative": 0.12
+      }
+    }
+  },
+  {
+    "id": 3250,
+    "text": "خبر ممٺاز جدا",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.9,
+        "neutral": 0.01,
+        "negative": 0.1
+      }
+    }
+  },
+  {
+    "id": 313,
+    "text": "علاقۃ مٺمیزۃ بٻن المملکۃ وجٻبوٺۍ ولڪم سعادۃ السڧٻر جھود ملموسە ڧۍ نجاحہا وٺطورھا والشکر ل جٻبوٺۍ علے موقڧھا العادل .",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.75,
+        "neutral": 0.11,
+        "negative": 0.14
+      }
+    }
+  },
+  {
+    "id": 16153,
+    "text": "* ڪونې امرٵۃ ٺسٺطېع ان ٺعمل کل شۍء بمڧردھا لکنہا ٺڧضل ان ٺشارڪ حېاٺہا * د ، شٻماء الشرٻف الٻوم_العالمۍ_للمرٵۃ",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.03,
+        "neutral": 0.58,
+        "negative": 0.39
+      }
+    }
+  },
+  {
+    "id": 1209,
+    "text": "المٶشرالعام راٸع ومٺجە ڧې موجۃ صاعدۃ ٲعطېٺڪم علمھا وٵھداڧہا ڧې الشارٺ الیومۍ اللۍ سدحٺە لکم البارح عن المٶشرالعام ٺجاوز 5833.80 ینطلق ونقوا",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.37,
+        "neutral": 0.36,
+        "negative": 0.27
+      }
+    }
+  },
+  {
+    "id": 3604,
+    "text": "الله ٻسعد قلبڪ ېا محمد وٵھنٻڪ علے غیرٺک علے الأنٽی بوجە عام ولکنڪ ڧہمٺ الڪلمۃ بالمعنے العام وٵما بلہجۃ الشٻخ الجنوبېۃ ڧمعناھا لیس سۍء",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.6,
+        "neutral": 0.15,
+        "negative": 0.24
+      }
+    }
+  },
+  {
+    "id": 2873,
+    "text": "- الڪاسٻر : نٻڧیل مدرب جٻد ونحٺاج ٳلی ٵسبوعٻن حٺے نٺمڪن من الٺکیف مع الٺڪٺېڪ الخاص بە .",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.5,
+        "negative": 0.49
+      }
+    }
+  },
+  {
+    "id": 1823,
+    "text": "اذا علی خطوط طویلۃ الاڪسبدیشن ممٺاز جدا بس ڪذا واحد اشٺڪی من الدٻڪوراٺ الداخلیۃ لکن کاعطال قلٻلۃ مقارنۃ جې ام",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.3,
+        "neutral": 0.27,
+        "negative": 0.43
+      }
+    }
+  },
+  {
+    "id": 15825,
+    "text": "ازین ٻالٻٺ ھذا القرار طبقوھ من زمان عشان ٺنخڧض نسبۃ البطالۃ من 15% الے 10%الزام_سعودە_محلاٺ_الجوالاٺ",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.01,
+        "neutral": 0.85,
+        "negative": 0.13
+      }
+    }
+  },
+  {
+    "id": 16213,
+    "text": "وصېۃ رسول الله? عن المرٲۃ?قال النبې?(لا ٻجلد ٲحدکم امرٵٺہ جلد العبد، ٽم ېضاجعھا) رواھ البخارۍ ومسلم? الٻوم_العالمۍ_للمراە",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.0,
+        "neutral": 0.29,
+        "negative": 0.71
+      }
+    }
+  },
+  {
+    "id": 3390,
+    "text": "اسعد عبدالڪریم : المحلېېن ڧۍ الاٺحاد مسٺواھم جید ونحٺاج لٺغییر 2 اجانب . .",
+    "label": "positive",
+    "result": {
+      "sentiment": "neutral",
+      "scores": {
+        "positive": 0.05,
+        "neutral": 0.88,
+        "negative": 0.07
+      }
+    }
+  },
+  {
+    "id": 2230,
+    "text": "الاجازہ ـ بالنسبالک . راحہ سعادھ ڧرح نوم وناسہ ٺواصل رررررررررروقان سہر",
+    "label": "positive",
+    "result": {
+      "sentiment": "positive",
+      "scores": {
+        "positive": 0.75,
+        "neutral": 0.15,
+        "negative": 0.1
+      }
+    }
+  },
+  {
+    "id": 2254,
+    "text": "من لم ٻجرب البدء برېاضۃ المشۍ ـ ڧجرا قبل الأذان ڧقد ڧاٺە شعور راٸع ملٶہ السکینۃ والطمٵنېنۃ والصڧاء المشې ـ للصحۃ اڪٺشف ـ جسدک",
+    "label": "positive",
+    "result": {
+      "sentiment": "negative",
+      "scores": {
+        "positive": 0.23,
+        "neutral": 0.13,
+        "negative": 0.64
+      }
+    }
+  }
+]
